@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Linee guida per l''Utilizzo delle Risorse Informatiche'
+project = 'Linee guida per l\'utilizzo delle risorse informatiche'
 copyright = '2022, DGSIA-CUS'
 author = 'CUS'
 
