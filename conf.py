@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Linee guida per l''Utilizzo delle Risorse Informatiche'
+copyright = '2022, DGSIA-CUS'
+author = 'CUS'
 
 release = '0.1'
 version = '0.1.0'
