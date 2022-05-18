@@ -30,6 +30,7 @@ templates_path = ['_templates']
 html_theme_options = {
     # Toc options
     'collapse_navigation': False,
+    'display_version': False,
     'sticky_navigation': False,
     'navigation_depth': 4,
     'includehidden': True,
