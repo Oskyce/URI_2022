@@ -27,6 +27,13 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+# These folders are copied to the documentation's HTML output
+html_static_path = ['_static']
+
+# These paths are either relative to html_static_path
+# or fully qualified paths (eg. https://...)
+html_css_files = ['css/custom.css']
+
 html_theme_options = {
     # Toc options
     'collapse_navigation': False,
@@ -51,14 +58,7 @@ html_short_title = "Linee guida URI 2022"
 
 html_theme = 'sphinx_rtd_theme'
 
-# These folders are copied to the documentation's HTML output
-html_static_path = ['_static']
 
-# These paths are either relative to html_static_path
-# or fully qualified paths (eg. https://...)
-html_css_files = [
-    'css/custom.css',
-]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
