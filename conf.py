@@ -29,6 +29,13 @@ templates_path = ['_templates']
 
 html_logo = '_image/imginiz.jpg'
 
+# The name for this set of Sphinx documents.  If None, it defaults to
+# "<project> v<release> documentation".
+html_title = "Linee guida per l\'utilizzo delle risorse informatiche"
+
+# A shorter title for the navigation bar. Default is the same as html_title.
+html_short_title = "Linee guida URI 2022"
+
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
