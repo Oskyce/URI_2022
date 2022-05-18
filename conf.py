@@ -27,6 +27,16 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+html_theme_options = {
+    'style_nav_header_background: #047dcc'
+    # Toc options
+    'collapse_navigation': False,
+    'sticky_navigation': False,
+    'navigation_depth': 4,
+    'includehidden': True,
+    'titles_only': False
+}
+
 html_logo = '_image/imginiz.jpg'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
