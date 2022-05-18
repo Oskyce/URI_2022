@@ -32,7 +32,14 @@ html_static_path = ['_static']
 
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
-html_css_files = ['css/theme.css']
+
+html_context = {
+    'css_files': [
+    '_static/css/theme.css',
+    ],
+#        'reference_project': 'Linee guida per utilizzo risorse informatiche',
+#       'reference_project_url': 'https://                /',
+    }
 
 html_theme_options = {
     # Toc options
