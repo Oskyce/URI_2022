@@ -28,7 +28,7 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 html_theme_options = {
-    'style_nav_header_background: #047dcc'
+    'style_nav_header_background: #0369ab'
     # Toc options
     'collapse_navigation': False,
     'sticky_navigation': False,
