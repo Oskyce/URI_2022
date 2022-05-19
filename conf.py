@@ -17,8 +17,6 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinx.ext.mathjax',
-    'sphinx.ext.githubpages'
 ]
 
 intersphinx_mapping = {
@@ -27,7 +25,7 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-#templates_path = ['_templates']
+templates_path = ['_templates']
 
 # These folders are copied to the documentation's HTML output
 #html_static_path = ['_static']
