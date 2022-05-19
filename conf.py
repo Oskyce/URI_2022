@@ -43,17 +43,6 @@ intersphinx_disabled_domains = ['std']
 #       'reference_project_url': 'https://                /',
 #    }
 
-html_theme_options = {
-    # Toc options
-    'collapse_navigation': False,
-    'display_version': False,
-    'sticky_navigation': False,
-    'navigation_depth': 4,
-    'includehidden': True,
-    'titles_only': False,
-    'style_nav_header_background': '#0369ab'
-}
-
 html_logo = '_image/imginiz.jpg'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
@@ -67,6 +56,16 @@ html_short_title = "Linee guida URI 2022"
 
 html_theme = 'sphinx_rtd_theme'
 
+html_theme_options = {
+    # Toc options
+    'collapse_navigation': False,
+    'display_version': False,
+    'sticky_navigation': False,
+    'navigation_depth': 4,
+    'includehidden': True,
+    'titles_only': False,
+    'style_nav_header_background': '#0369ab'
+}
 
 
 # -- Options for EPUB output
