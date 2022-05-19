@@ -41,7 +41,7 @@ intersphinx_disabled_domains = ['std']
 #    ],
 #        'reference_project': 'Linee guida per utilizzo risorse informatiche',
 #       'reference_project_url': 'https://                /',
-    }
+#    }
 
 html_theme_options = {
     # Toc options
