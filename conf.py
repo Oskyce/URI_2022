@@ -43,6 +43,8 @@ templates_path = ['_templates']
 
 html_logo = '_image/imginiz.jpg'
 
+html_show_sourcelink = False
+
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 html_title = "Linee guida per l\'utilizzo delle risorse informatiche"
