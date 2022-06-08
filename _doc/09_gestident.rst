@@ -1,5 +1,5 @@
 ****************************************
-**7. Gestione delle Identità**
+**9. Gestione delle Identità**
 ****************************************
 La gestione delle identità digitali degli utenti di Corte dei conti è improntata ai seguenti principi: 
 

@@ -1,7 +1,7 @@
 ****************************
-**10. Servizi in Cloud**
+**12. Servizi in Cloud**
 ****************************
-**10.1 Cloud della Corte dei Conti**
+**12.1 Cloud della Corte dei Conti**
 ----------------------------------------
 Gli strumenti di *Office Automation* adottati dalla Corte dei conti (*Microsoft Office 365*) utilizzano appieno le potenzialità del  :term:`cloud<Cloud computing>`, agevolando un cambio di paradigma nella gestione consapevole del lavoro proprio, degli uffici, dell’organizzazione.
 
@@ -9,7 +9,7 @@ Fra i principali strumenti attualmente disponibili si evidenziano i seguenti.
 
 ..
 
-10.1.1 SharePoint Online
+12.1.1 SharePoint Online
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Si tratta di una modalità evoluta di gestione di documenti istituzionali, alternativa rispetto alle tradizionali cartelle condivise su *File Server*, con il vantaggio della gestione automatica delle versioni.
 
@@ -17,7 +17,7 @@ Ogni Ufficio può richiedere a :term:`DGSIA/CUS` l'apertura di un sito da person
 
 ..
 
-10.1.2 OneDrive for Business
+12.1.2 OneDrive for Business
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Permette di organizzare i propri *file* in maniera da renderli indipendenti dal dispositivo utilizzato, salvaguardando il lavoro di ognuno da guasti improvvisi della postazione, ma anche dal furto o dalla indisponibilità della stessa.
 
@@ -27,22 +27,10 @@ L’attuale spazio di archiviazione offerto ad ogni dipendente della Corte è di
 
 ..
 
-10.1.3 Microsoft Teams
+12.1.3 Microsoft Teams
 ^^^^^^^^^^^^^^^^^^^^^^
 Si tratta di un'area di lavoro integrata, incentrata su *chat* personali o di gruppo, che include persone, conversazioni, *file* e strumenti, possibilità di organizzare riunioni e partecipare a videoconferenze.
 
-..
-
-10.1.4 Yammer
-^^^^^^^^^^^^^
-È un *social network* interno che consente a persone, appartenenti a gruppi di lavoro ed uffici, anche diversi, di collaborare favorendo la condivisione e lo scambio di informazioni.
-
-..
-
-10.1.5 Skype for business
-^^^^^^^^^^^^^^^^^^^^^^^^^
-La versione evoluta di *Skype* consente agli utenti di comunicare, in audio e in video, con qualunque persona in possesso di un *account Skype*. Lo strumento consente, inoltre, con immediatezza, di creare videoconferenze e di registrarne il contenuto.
-	
 ..
 
 Data la natura innovativa dei servizi *cloud*, nuovi strumenti di lavoro vengono costantemente messi a disposizione dell’utenza, la quale è invitata a provarne autonomamente le funzionalità e la rispondenza alle proprie esigenze lavorative.
@@ -51,7 +39,7 @@ L’elenco degli strumenti e delle  :term:`app` disponibili, unitamente alle inf
 
 ..
 
-**10.2 Altri servizi in Cloud**
+**12.2 Altri servizi in Cloud**
 -----------------------------------------
 L’utente può avere necessità di accedere ai servizi ed alle risorse fornite da terzi secondo il modello del  :term:`cloud computing` (es. servizi di posta elettronica ed archiviazione di *Google, Yahoo, Microsoft, Amazon,* etc.).
 

@@ -1,5 +1,5 @@
 ****************************************
-**11. Servizi di posta elettronica**
+**13. Servizi di posta elettronica**
 ****************************************
 I servizi di posta elettronica sono regolati dalle apposite Circolari adottate nel tempo dal Segretario Generale. Si richiama l’attenzione, in particolare, sulla necessità di distinguere, nell’indirizzamento delle comunicazioni, quelle rivolte personalmente al destinatario rispetto a quelle destinate all’organo o all’ufficio, che devono essere inviate anche alle pertinenti caselle istituzionali e alle competenti segreterie per la conseguente trattazione.
 
@@ -9,7 +9,7 @@ Le esigenze di comunicazione privata dell’utente possono trovare soddisfazione
 
 ..
 
-**11.1 Posta Elettronica Ordinaria di lavoro individuale o ufficio (PEO)**
+**13.1 Posta Elettronica Ordinaria di lavoro individuale o ufficio (PEO)**
 --------------------------------------------------------------------------------
 Il servizio di posta elettronica ordinaria poggia attualmente su infrastruttura Office365 e presenta un limite di archiviazione di 100 Gb per la posta elettronica individuale e di 50 Gb per la posta elettronica di ufficio.
 
@@ -41,7 +41,7 @@ Messaggi contenenti  :term:`spam` o contenuto malevole ( :term:`malware`) sono i
 
 In casi del tutto eccezionali, caratterizzati ad esempio dalla prolungata irreperibilità dell’utente o dall’impossibilità, per questi, di accedere alla propria casella di posta elettronica istituzionale, potrebbe manifestarsi la necessità, per la Corte dei conti, di accedere al contenuto della casella stessa. In questi ultimi casi, su disposizione del Presidente della Corte dei conti, alla presenza del responsabile dell’ufficio dell’utente interessato, con modalità tali da assicurare la tracciatura delle operazioni compiute e la riservatezza dell’interessato, potrà procedersi alla verifica del contenuto della casella, per estrarre i messaggi ritenuti rilevanti per lo svolgimento dell’attività istituzionale.
 
-**11.2 Posta Elettronica Certificata (PEC)**
+**13.2 Posta Elettronica Certificata (PEC)**
 --------------------------------------------------
 Le caselle di PEC sono assegnate agli uffici, agli organi ovvero a specifiche funzioni per esclusive finalità istituzionali. I relativi indirizzi sono pubblicati nell'`Indice delle P.A. <http://www.indicepa.gov.it/documentale/index.php>`_ (I.P.A.). 
 

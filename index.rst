@@ -11,23 +11,26 @@ Vers. 2 – 1.2022
    _doc/01_finalità
    _doc/02_principi
    _doc/03_soggetti
-   _doc/04_dispositivi
-   _doc/05_periferiche
-   _doc/06_software
-   _doc/07_gestident
-   _doc/08_rete
-   _doc/09_internet
-   _doc/10_cloud
-   _doc/11_posta
-   _doc/A0_documentale
-   _doc/A1_tutela
-   _doc/A2_decorrenza
+   _doc/04_postazioni
+   _doc/05_telefonia   
+   _doc/06_printing
+   _doc/07_periferiche
+   _doc/08_software
+   _doc/09_gestident
+   _doc/10_rete
+   _doc/11_internet
+   _doc/12_cloud
+   _doc/13_posta
+   _doc/14_documentale
+   _doc/15_tutela
+   _doc/16_diritti
+   _doc/17_decorrenza
 
 **Allegati**
 
 .. toctree::
    :maxdepth: 4
      
-   _doc/A3_Glossario
-   _doc/A4_Normativa
+   _doc/A1_Glossario
+   _doc/A2_Normativa
    
