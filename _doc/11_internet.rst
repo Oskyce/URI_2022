@@ -3,7 +3,7 @@
 *********************************
 La navigazione su Internet è consentita a tutti i dipendenti, senza distinzione di ruolo o profilo. L’accesso è abilitato su tutti i dispositivi connessi alla rete, in qualsiasi modalità prevista, trattandosi di uno strumento generalmente imprescindibile per lo svolgimento dell’attività lavorativa.
 
-**9.1	Misure di protezione**
+**11.1	Misure di protezione**
 ------------------------------
 Nell'ambito della propria attività di gestione del sistema, :term:`DGSIA/CUS` adotta, in conformità della vigente normativa in materia di sicurezza informatica e protezione dei dati personali, idonee misure di controllo, filtraggio, monitoraggio e tracciatura delle connessioni e dei collegamenti ai siti Internet esterni.
 
@@ -13,7 +13,7 @@ Il servizio di navigazione internet fornito dalla Corte dei conti può filtrare 
 
 ..
 
-**9.2 Social network esterni**
+**11.2 Social network esterni**
 ------------------------------
 I :term:`social network<Social Media e network>` (ad esempio: *LinkedIn, MySpace, Twitter, Google+, Facebook*) consentono di condividere con le “comunità” digitali i più disparati contenuti, attraverso l’uso di piattaforme aperte, interattive e partecipative.
 
