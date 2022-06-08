@@ -13,7 +13,7 @@ I magistrati, i Dirigenti ed i Funzionari preposti, od i dipendenti previamente 
 •	l’attivazione sulla propria SIM Aziendale di un profilo tariffario, a totale carico dell’amministrazione, con un massimale dati maggiorato;
 •	una scheda SIM M2M (machine-to-machine), aggiuntiva rispetto alla SIM aziendale già in possesso, per il solo collegamento ad Internet. Per attivare la SIM M2M, a costo ripartito al 50% tra Segretariato generale ed il dipendente, sarà necessario attivare sulla stessa l’opzione “TIM Tuo” (per un minimo di 6 mesi), che permetterà l’addebito diretto della compartecipazione mensile sul conto corrente personale del dipendente. All’attivazione della scheda M2M sarà fornito contestualmente un router 4G in comodato d’uso.
 
-**5.1	5.2	Smartphone**
+**5.2	Smartphone**
 ------------------------------
 
 I magistrati, i Dirigenti ed i Funzionari preposti verranno dotati di una SIM aziendale con uno smartphone fornito in comodato d’uso: per il personale amministrativo con particolari mansioni lavorative sarà necessario, invece, far pervenire apposita richiesta dal vertice istituzionale di riferimento mediante il modulo disponibile sulla intranet aziendale. 
