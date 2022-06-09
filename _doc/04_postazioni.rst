@@ -1,7 +1,7 @@
 ****************************************
 **4. Dispositivi**
 ****************************************
-Il “Piano strategico per la gestione delle postazioni di lavoro 2020-2022”, formalizzato con Circolare del Segretario generale n. 36/2020, prevede una “strategia di graduale aggiornamento delle postazioni di lavoro (PDL), mediante la sostituzione dei computer fissi con computer portatili di fascia alta” al fine di supportare al meglio i Magistrati, i Dirigenti e il personale amministrativo nell’espletamento delle proprie mansioni. 
+Il `“Piano strategico per la gestione delle postazioni di lavoro 2020-2022” <https://intranet.corteconti.it/Download/id/ae06f68b-7c7f-4ab6-99b1-9e1a6fa66d88/FileType/O>`_  , formalizzato con Circolare del Segretario generale n. 36/2020, prevede una *“strategia di graduale aggiornamento delle postazioni di lavoro (PDL), mediante la sostituzione dei computer fissi con computer portatili di fascia alta”* al fine di supportare al meglio i Magistrati, i Dirigenti e il personale amministrativo nell’espletamento delle proprie mansioni. 
 
 Il suddetto Piano stabilisce che, per lo svolgimento dell’attività lavorativa, tutto il personale della Corte, di ogni ordine e grado, abbia in dotazione un dispositivo portatile ad alta capacità, completo di accessori (docking station, monitor di adeguate dimensioni, tastiera, mouse) in sostituzione delle postazioni di lavoro precedentemente assegnate da utilizzare sia per le attività in presenza che per le attività in Smart Working. 
 
