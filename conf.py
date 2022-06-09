@@ -56,6 +56,8 @@ html_short_title = "Linee guida URI 2022"
 
 html_theme = 'sphinx_rtd_theme'
 
+html_favicon = 'favicon.ico'
+
 html_theme_options = {
     # Toc options
     'collapse_navigation': False,
