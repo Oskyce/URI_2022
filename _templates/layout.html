@@ -19,10 +19,23 @@
 	
 	div.rst-versions > div.rst-other-versions > div.injected > dl:nth-child(4) {
     display: none;
-	
-	.wy-nav-content  {
-    text-align: justify;
 	}
-}
+	
+	.rst-content table.field-list .field-name {
+	text-align: justify;
+	}
+	
+	.rst-content table.field-list .field-body {
+	text-align: justify;
+	}
+	
+	.wy-table thead, .rst-content table.docutils thead, .rst-content table.field-list thead {
+	text-align: justify;
+	}
+	
+	.wy-table caption, .rst-content table.docutils caption, .rst-content table.field-list caption {
+	text-align: center;
+	}
+
   </style>
 {% endblock %}
