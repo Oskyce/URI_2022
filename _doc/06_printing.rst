@@ -1,7 +1,7 @@
 6. Printing management
 =====================
 
-Come previsto dalla Circolare n. 38 emanata dal Segretario Generale
+Come previsto dalla `Circolare n. 38 <https://intranet.corteconti.it/Download/id/7f6ec4fd-0c4d-4ac8-b7db-361d5cf6f589/FileType/O>`__ emanata dal Segretario Generale
 in data 3 agosto 2017, è attivo in Corte dei conti un sistema di
 stampa centralizzato cosiddetto Printing management basato su
 piattaforma Kofax-Equitrac 5.7.
