@@ -1,4 +1,4 @@
-*Printing management*
+Printing management
 =====================
 
    Come previsto dalla Circolare n. 38 emanata dal Segretario Generale
