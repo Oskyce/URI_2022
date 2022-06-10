@@ -10,7 +10,7 @@ I dipendenti possono procedere autonomamente all’installazione di
 programmi preselezionati da DGSIA/CUS accedendo all’apposito
 portale “Catalogo applicazioni”. Il catalogo è raggiungibile digitando il
 relativo nome nella casella di ricerca indicata dal 
-simbolo\ |Lente di ingrandimento| presente nella barra delle
+simbolo Lente di ingrandimento presente nella barra delle
 applicazioni.
 
 Ogni componente utilizzato dai dipendenti di Corte è collegato ad una
