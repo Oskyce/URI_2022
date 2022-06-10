@@ -4,8 +4,7 @@
 
 DGSIA/CUS predispone le configurazioni standard (ad esempio: sistema
 operativo ed estensioni, antivirus, programmi per la redazione di
-documenti e fogli elettronici, posta elettronica)\ [STRIKEOUT:;
-fornisce altresì la connessione alla rete].
+documenti e fogli elettronici, posta elettronica)\.
 
 I dipendenti possono procedere autonomamente all’installazione di
 programmi preselezionati da DGSIA/CUS accedendo all’apposito
