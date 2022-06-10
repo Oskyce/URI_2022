@@ -1,4 +1,4 @@
-**6. Printing management
+6. Printing management
 =====================
 
    Come previsto dalla Circolare n. 38 emanata dal Segretario Generale
