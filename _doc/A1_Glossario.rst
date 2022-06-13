@@ -31,9 +31,6 @@
     Big Data
         Descrive l'insieme delle tecnologie e delle metodologie di analisi di dati massivi[1], ovvero la capacità di estrapolare, analizzare e mettere in relazione un'enorme mole di dati eterogenei, strutturati e non strutturati, per scoprire i legami tra fenomeni diversi e prevedere quelli futuri. https://it.wikipedia.org/wiki/Big_data .
 
-    BYOD (Bring Your Own device) 
-        Letteralmente “Porta il tuo dispositivo”. È un’espressione utilizzata per riferirsi alle politiche aziendali che permettono di portare i propri dispositivi personali nel posto di lavoro, e usarli per avere gli accessi privilegiati alle informazioni aziendali e alle loro applicazioni. https://it.wikipedia.org/wiki/Bring_your_own_device .
-
     Cyber Security
         Termine che rappresenta quell'ambito della sicurezza informatica che dipende solo dalla tecnologia informatica. https://it.wikipedia.org/wiki/Sicurezza_informatica . 
 
@@ -45,9 +42,6 @@
 
     Front Office
         Nell'organizzazione aziendale il termine front office (letteralmente "ufficio davanti"), indica l'insieme delle strutture di un'organizzazione che gestiscono l'interazione con il cliente. Si contrappone al back office che rappresenta invece il motore aziendale.. Vedi:  https://it.wikipedia.org/wiki/Front_office.
-
-    Industry 4.0
-        Il termine Indica una tendenza dell'automazione industriale che integra alcune nuove tecnologie produttive per migliorare le condizioni di lavoro e aumentare la produttività e la qualità produttiva degli impianti. https://it.wikipedia.org/wiki/Industria_4.0 
 
     Internet Of Things
         Internet of things (o, più propriamente, Internet degli oggetti o IoT, acronimo dell'inglese Internet of things) è un neologismo riferito all'estensione di Internet al mondo degli oggetti e dei luoghi concreti. https://it.wikipedia.org/wiki/Internet_delle_cose .
