@@ -2,7 +2,7 @@
 **2. Principi**
 ****************************************
 
- La gestione delle risorse informatiche è svolta dalla *Direzione Generale dei Servizi Informativi Automatizzati* (DGSIA) in adesione
+La gestione delle risorse informatiche è svolta dalla *Direzione Generale dei Servizi Informativi Automatizzati* (DGSIA) in adesione
 agli indirizzi legislativi, al `Piano Triennale per l’informatica nella P.A. <\l>`__\ *e alle* `Linee di indirizzo e Direttive generali
 della Corte dei conti <#LineeindirizzoamministrativoCdc2019>`__.
 
