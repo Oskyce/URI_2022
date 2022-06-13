@@ -2,7 +2,7 @@
 **2. Principi**
 ****************************************
 
-La gestione delle risorse informatiche è svolta dalla *Direzione Generale dei Servizi Informativi Automatizzati* (DGSIA) in adesione agli indirizzi legislativi, al :term:`PTIPA – Piano Triennale per l’Informatica nella P.A. 2017-2019>`(*Piano Triennale per l’Informatica nella P.A. 2017-2019*). e alle term:`Corte dei conti>`(*Linee di indirizzo e Direttive generali della Corte dei conti*)` 
+La gestione delle risorse informatiche è svolta dalla *Direzione Generale dei Servizi Informativi Automatizzati* (DGSIA) in adesione agli indirizzi legislativi, al :term:`PTIPA – Piano Triennale per l’Informatica nella P.A. 2017-2019>`. e alle term:`Corte dei conti>` 
 
 Essa è orientata ai seguenti *principi* cardine:
 
