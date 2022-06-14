@@ -27,7 +27,7 @@ I servizi di Corte potranno essere utilizzati fino alla definitiva disattivazion
 
 *La password* deve rispondere a specifici requisiti di complessità: deve essere differente rispetto a quelle già utilizzate; deve essere costituita da un numero minimo di 12 caratteri e prevedere in modo combinato lettere maiuscole e minuscole, numeri e/o caratteri speciali. 
 
-Per evitare blocchi dell’\ *account* è necessario che la nuova password venga impostata anche sugli altri dispositivi utilizzati per il collegamento con le risorse e la rete di Corte (`configurazione *Wi-Fi* di *smartphone* e *tablet* <https://corteconti.sharepoint.com/teams/ac_dc/Referenziati%20da%20Mappa%20Servizi/Forms/Prova.aspx?id=%2Fteams%2Fac%5Fdc%2FReferenziati%20da%20Mappa%20Servizi%2FCUS%2FCorte%20dei%20Conti%20%2D%20WiFi%20%2D%20Manuale%20Utenti%20Interni%2Epdf&parent=%2Fteams%2Fac%5Fdc%2FReferenziati%20da%20Mappa%20Servizi%2FCUS&p=true&ga=1>`__).
+Per evitare blocchi dell’\ *account* è necessario che la nuova password venga impostata anche sugli altri dispositivi utilizzati per il collegamento con le risorse e la rete di Corte (`configurazione Wi-Fi di smartphone e tablet <https://corteconti.sharepoint.com/teams/ac_dc/Referenziati%20da%20Mappa%20Servizi/Forms/Prova.aspx?id=%2Fteams%2Fac%5Fdc%2FReferenziati%20da%20Mappa%20Servizi%2FCUS%2FCorte%20dei%20Conti%20%2D%20WiFi%20%2D%20Manuale%20Utenti%20Interni%2Epdf&parent=%2Fteams%2Fac%5Fdc%2FReferenziati%20da%20Mappa%20Servizi%2FCUS&p=true&ga=1>`__).
 
 Il *reset* della *password* può eseguirsi autonomamente sul `portale self service <https://password.corteconti.it/>`__, previa `registrazione <file:///C:/Users/cristiana_carratu/AppData/Local/Microsoft/Windows/INetCache/IE/9ZRH9ORQ/registrazionepassword.corteconti.it>`__.
 
