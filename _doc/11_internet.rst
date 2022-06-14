@@ -21,6 +21,8 @@ L’accesso a queste reti, ai forum di discussione in linea, ai *blog*, così co
 
 Non v’è motivo di ostacolare queste attività, nella misura in cui esse offrano possibilità di confronto e scambio di idee, costituendo una preziosa fonte di arricchimento ed aggiornamento professionale, accrescendo in definitiva il sapere individuale e collettivo.
 
+Non v’è dubbio, tuttavia, che i :term:`social network<Social Media e network>` siano anche il veicolo della manifestazione del pensiero, ma la specificità del mezzo non deve consentire –casomai il contrario – l’attenuazione dei canoni del corretto esercizio di tale libertà, secondo i consolidati canoni elaborati in sede interpretativa ed applicativa, in specie, all’art. 21 della Costituzione.  
+
 Va da sé che le attività in questione, nell’ambito dell’utilizzo delle risorse informatiche della Corte, trovano la propria ragion d’essere e quindi il proprio limite nella loro funzionalità agli interessi istituzionali.
 Una particolare attenzione è raccomandata al fine di evitare ogni possibile equivoco sulla natura istituzionale o personale dell’eventuale partecipazione alle suddette piattaforme. Sotto quest’ultimo profilo, costituisce elementare regola di buon senso la cautela di utilizzare credenziali personali anziché istituzionali. 
 
