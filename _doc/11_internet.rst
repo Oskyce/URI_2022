@@ -15,7 +15,7 @@ Il servizio di navigazione internet fornito dalla Corte dei conti può filtrare 
 
 **11.2 Social network esterni**
 ------------------------------
-I :term:`social network<Social Media e network>` (ad esempio: *LinkedIn, MySpace, Twitter, Google+, Facebook*) consentono di condividere con le “comunità” digitali i più disparati contenuti, attraverso l’uso di piattaforme aperte, interattive e partecipative.
+I :term:`social network<Social Media e network>` (ad esempio: *LinkedIn, Instagram, Twitter, Facebook*) consentono di condividere con le “comunità” digitali i più disparati contenuti, attraverso l’uso di piattaforme aperte, interattive e partecipative.
 
 L’accesso a queste reti, ai forum di discussione in linea, ai *blog*, così come l’utilizzo di piattaforme di condivisione di video (ad es. *Youtube*) o di conoscenza (come es. *Wikipedia*), permettono di raggiungere agevolmente informazioni e contenuti utili al proficuo svolgimento dell’attività istituzionale.
 
