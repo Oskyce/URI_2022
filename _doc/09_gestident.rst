@@ -29,7 +29,7 @@ I servizi di Corte potranno essere utilizzati fino alla definitiva disattivazion
 
 Per evitare blocchi dell’\ *account* è necessario che la nuova password venga impostata anche sugli altri dispositivi utilizzati per il collegamento con le risorse e la rete di Corte (`configurazione Wi-Fi di smartphone e tablet <https://corteconti.sharepoint.com/teams/ac_dc/Referenziati%20da%20Mappa%20Servizi/Forms/Prova.aspx?id=%2Fteams%2Fac%5Fdc%2FReferenziati%20da%20Mappa%20Servizi%2FCUS%2FCorte%20dei%20Conti%20%2D%20WiFi%20%2D%20Manuale%20Utenti%20Interni%2Epdf&parent=%2Fteams%2Fac%5Fdc%2FReferenziati%20da%20Mappa%20Servizi%2FCUS&p=true&ga=1>`__).
 
-Il *reset* della *password* può eseguirsi autonomamente sul `portale self service <https://password.corteconti.it/>`__, previa `registrazione <file:///C:/Users/cristiana_carratu/AppData/Local/Microsoft/Windows/INetCache/IE/9ZRH9ORQ/registrazionepassword.corteconti.it>`__.
+Il *reset* della *password* può eseguirsi autonomamente sul `portale self service <https://password.corteconti.it/>`__, seguendo le indicazioni riportate nel `manuale <https://corteconti.sharepoint.com/teams/ac_dc/Referenziati%20da%20Mappa%20Servizi/Forms/Prova.aspx?id=%2Fteams%2Fac%5Fdc%2FReferenziati%20da%20Mappa%20Servizi%2FCUS%2FISTRUZIONI%5FRESET%5FE%5FCAMBIO%5FPASSWORD%5Fv2%2Epdf&parent=%2Fteams%2Fac%5Fdc%2FReferenziati%20da%20Mappa%20Servizi%2FCUS&p=true&ga=1>`__.
 
 ..
 
