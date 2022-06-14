@@ -21,7 +21,7 @@ Ogni Ufficio può richiedere a :term:`DGSIA/CUS` l'apertura di un sito da person
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Lo strumento, tramite l’utilizzo di risorse in :term:`Cloud<cloud computing>`, consente: l’accesso ai propri dati da qualsiasi dispositivo connesso ad *Internet*, la sincronizzazione automatica con uno o più dispositivi, la condivisione di documenti con altri utenti, il versionamento automatico dei *files.* Garantisce, inoltre, la sicurezza e l’integrità dei dati. 
 
-**L’utilizzo di OneDrive è obbligatorio per ogni dipendente**, in quanto esso sostituisce le operazioni di :term:salvataggio<backup>` e di ripristino (*restore*) dei dati presenti nelle postazioni individuali di lavoro. Tali operazioni, dunque, non sono più svolte da DGSIA/CUS, neanche a fronte della sostituzione delle postazioni di lavoro per trasferimento o altra causa. 
+**L’utilizzo di OneDrive è obbligatorio per ogni dipendente**, in quanto esso sostituisce le operazioni di :term:`salvataggio<backup>` e di ripristino (*restore*) dei dati presenti nelle postazioni individuali di lavoro. Tali operazioni, dunque, non sono più svolte da DGSIA/CUS, neanche a fronte della sostituzione delle postazioni di lavoro per trasferimento o altra causa. 
 
 L’attuale spazio di archiviazione offerto ad ogni dipendente della Corte è di circa 5.000 *gigabyte (equivalenti a* *5* *terabyte)*. È consentito depositare su *OneDrive*, senza pregiudizio per le attività istituzionali, anche file di natura privata. Specifiche indicazioni riguardo questi ultimi vengono fornite nel successivo paragrafo riguardante la Gestione e tutela dei dati. A tale ultimo riguardo, va da sé che rimangono ferme tutte le previsioni di legge, oltre la richiamata disciplina specifica e di settore.  
 
