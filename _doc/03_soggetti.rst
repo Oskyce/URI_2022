@@ -8,10 +8,10 @@ I soggetti qui considerati sono:
 - gli *Utenti digitali*, distinti in:
 
 	*	*Dipendenti*, considerati come “testimoni” dei valori dell’Istituto
-	*	*Ospiti*, temporaneamente presenti in sede 
+	*	*Ospiti*, temporaneamente presenti in sede in qualità di:
 
-		*	*visitatori*, partecipanti a riunioni o altre attività lavorative all’interno delle sedi istituzionali, o 
-		*	*collaboratori*, esterni e fornitori, soggetti a cui viene chiesto di condividere le scelte dell’Istituto per garantire il rispetto degli impegni assunti in ogni fase/attività/processo assegnati e svolti
+		*	*visitatori*, partecipanti a riunioni o altre attività lavorative all’interno delle sedi istituzionali
+		*	*collaboratori esterni e fornitori*, soggetti a cui viene chiesto di condividere le scelte dell’Istituto per garantire il rispetto degli impegni assunti in ogni fase/attività/processo assegnati e svolti
 
 ..
    
