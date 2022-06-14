@@ -9,6 +9,6 @@ La Corte ritiene fondamentale tutelare le risorse informatiche, i servizi, il pa
 
 In quest’ottica, le Linee guida contribuiscono a prevenire eventuali comportamenti, anche inconsapevoli, rischiosi sia per l’utente che per l’organizzazione.
 
-Il documento è sintetico e di ampio respiro e non esaurisce la materia, tenuto conto che sono già operativi altri strumenti normativi e/o tecnici dedicati (generali o di settore), come ad esempio il `Manuale di Gestione documentale <https://intranet.corteconti.it/Download/id/8613eb85-becd-497a-bc73-2ff454527b7d/FileType/O>`__ e le iniziative informative e divulgative (`Moduli DGSIA Formazione <https://intranet.corteconti.it/Home/Strumenti/RisorseUmane/DGSIAFormazione>`__, Guide dedicate, `*Tutorial* di Missione Cdc digitale<https://web.microsoftstream.com/channel/99917d37-4a91-4d7f-ac3c-69a51e291390>`__; *e-mail* tecniche di aggiornamento continuo).
+Il documento è sintetico e di ampio respiro e non esaurisce la materia, tenuto conto che sono già operativi altri strumenti normativi e/o tecnici dedicati (generali o di settore), come ad esempio il `Manuale di Gestione documentale <https://intranet.corteconti.it/Download/id/8613eb85-becd-497a-bc73-2ff454527b7d/FileType/O>`__ e le iniziative informative e divulgative (`Moduli DGSIA Formazione <https://intranet.corteconti.it/Home/Strumenti/RisorseUmane/DGSIAFormazione>`__, Guide dedicate, `Tutorial di Missione Cdc digitale<https://web.microsoftstream.com/channel/99917d37-4a91-4d7f-ac3c-69a51e291390>`__, *e-mail* tecniche di aggiornamento continuo).
 
 ..
