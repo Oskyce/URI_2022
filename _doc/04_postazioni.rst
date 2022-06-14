@@ -1,5 +1,5 @@
 ****************************************
-**4. 4	Postazioni di lavoro (PDL)**
+**4. Postazioni di lavoro (PDL)**
 ****************************************
 Il `“Piano strategico per la gestione delle postazioni di lavoro 2020-2022” <https://intranet.corteconti.it/Download/id/ae06f68b-7c7f-4ab6-99b1-9e1a6fa66d88/FileType/O>`_  , formalizzato con Circolare del Segretario generale n. 36/2020, prevede una *“strategia di graduale aggiornamento delle postazioni di lavoro (PDL), mediante la sostituzione dei computer fissi con computer portatili di fascia alta”* al fine di supportare al meglio i Magistrati, i Dirigenti e il personale amministrativo nell’espletamento delle proprie mansioni. 
 
