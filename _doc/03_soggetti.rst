@@ -11,15 +11,14 @@ I soggetti qui considerati sono:
    
 Le risorse informatiche istituzionali qui considerate comprendono: 
 
-- i dispositivi informatici;
-- i *software*;
-- la rete della Corte;
-- Internet;
-
-*  i servizi in cloud;
-*  i servizi di posta elettronica;
-*  i documenti informatici;
-*  i dati.
+* i dispositivi informatici;
+* i *software*;
+* la rete della Corte;
+* Internet;
+* i servizi in cloud;
+* i servizi di posta elettronica;
+* i documenti informatici;
+* i dati.
 
 ..
 
