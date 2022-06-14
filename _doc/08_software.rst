@@ -8,3 +8,4 @@ Il DGSIA/CUS predispone le configurazioni standard (ad esempio: sistema operativ
 Ogni componente utilizzato dai dipendenti di Corte è collegato ad una *licenza d’uso* che ne consente la fruizione nei limiti e  termini connessi al contesto di utilizzo.  Su indicazione dei responsabili degli uffici, in relazione allo svolgimento di specifiche attività lavorative, alcune postazioni potranno essere dotate di programmi aggiuntivi che dovranno comunque soddisfare la *policy* di sicurezza ed i prerequisiti software definiti dalla Corte dei conti.
 
 .. |Lente di ingrandimento| image:: https://cdn-icons.flaticon.com/png/512/3249/premium/3249873.png?token=exp=1655215064~hmac=5fe1413eda275fd3fe82beb7618e86eb
+	:height: 25px
