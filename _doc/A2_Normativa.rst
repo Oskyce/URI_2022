@@ -24,21 +24,24 @@
 
 .. glossary::
 
+	Linee Generali di Indirizzo dell’azione amministrativa per l'anno 2018
+		`Linee Generali di Indirizzo dell’azione amministrativa per l'anno 2018 emanate dal Presidente con Atto del 5.4.2018 Prot. n. 938. <C:\Users\cristiana_carratu\AppData\Local\Microsoft\Windows\INetCache\IE\ITO7GRZO\LINEE GENERALI DI INDIRIZZO DELL’AZIONE AMMINISTRATIVA PER L'ANNO 2018>`_ 
+
 	PTIPA – Piano Triennale per l’Informatica nella P.A. 2017-2019
 		`Piano Triennale per l’informatica nella PA 2017-19 <https://pianotriennale-ict.readthedocs.io/it/latest/>`_: Documento di indirizzo strategico ed economico di guida per la trasformazione digitale della P.A. approvato dal Presidente del Consiglio il 31 marzo 2017.
 
-	Corte dei conti
-		`Linee Generali di Indirizzo dell’azione amministrativa per l'anno 2018 emanate dal Presidente con Atto del 5.4.2018 Prot. n. 938. <C:\Users\cristiana_carratu\AppData\Local\Microsoft\Windows\INetCache\IE\ITO7GRZO\LINEE GENERALI DI INDIRIZZO DELL’AZIONE AMMINISTRATIVA PER L'ANNO 2018>`_ 
                                                                                                                                                                                                                                                                                  
 **Privacy**
 -----------
 
 .. glossary::
 
+	Codice in materia di protezione dei dati personali
+		`Decreto legislativo 30 giugno 2003, n. 196. <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=>`_
+		
 	Regolamento UE n.   2016/679– GDPR (General Data Protection   Regulation)
 		`Regolamento UE n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ITA>`_ relativo   alla protezione delle persone fisiche con riguardo al trattamento dei dati   personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).                                                                                                                                                       
     
-	Codice in materia di protezione dei dati personali
-		`Decreto legislativo 30 giugno 2003, n. 196. <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=>`_
+	
 
 ..
