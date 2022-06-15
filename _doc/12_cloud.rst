@@ -25,7 +25,7 @@ Permette di organizzare i propri *file*\ s in maniera da renderli indipendenti d
 
 Lo strumento, tramite l’utilizzo di risorse in *Cloud*, consente: l’accesso ai propri dati da qualsiasi dispositivo connesso ad *Iinternet*, la sincronizzazione automatica con uno o più dispositivi, la condivisione di documenti con altri utenti, il versionamento automatico dei *files.* Garantisce, inoltre, la sicurezza e l’integrità dei dati. 
 
-**L’utilizzo di OneDrive è obbligatorio per ogni dipendente**, in quanto esso sostituisce le operazioni di salvataggio (`backup <\l>`__) e di ripristino (*restore*) dei dati presenti nelle postazioni individuali di lavoro. Tali operazioni, dunque, non sono più svolte da DGSIA/CUS, neanche a fronte della sostituzione delle postazioni di lavoro per trasferimento o altra causa. 
+**L’utilizzo di OneDrive è obbligatorio per ogni dipendente**, in quanto esso sostituisce le operazioni di salvataggio (:term:`backup<Backup>`) e di ripristino (*restore*) dei dati presenti nelle postazioni individuali di lavoro. Tali operazioni, dunque, non sono più svolte da DGSIA/CUS, neanche a fronte della sostituzione delle postazioni di lavoro per trasferimento o altra causa. 
 
 L’attuale spazio di archiviazione offerto ad ogni dipendente della Corte è di circa 5.000 *gigabyte (equivalenti a* *5* *terabyte)*. È consentito depositare su *OneDrive*, senza pregiudizio per le attività istituzionali, anche file di natura privata. Specifiche indicazioni riguardo questi ultimi vengono fornite nel successivo paragrafo riguardante la Gestione e tutela dei dati. A tale ultimo riguardo, va da sé che rimangono ferme tutte le previsioni di legge, oltre la richiamata disciplina specifica e di settore.
 
@@ -53,12 +53,12 @@ Grazie ad un’interfaccia semplice ed intuitiva, inoltre, è possibile organizz
 
 In ultimo si vuole evidenziare che l'utilizzo di *Microsoft Teams* per l’organizzazione e lo svolgimento delle riunioni è fortemente raccomandato in quanto permette di superare il vincolo della copresenza fisica nello stesso luogo delle persone coinvolte e si sposa appieno con i principi del lavoro agile e/o telelavoro. 
 
-Per un approfondimento su tutte le funzionalità messe a disposizione dall’applicativo è comunque possibile consultare `l’apposita guida online su Microsoft Teams. <https://support.microsoft.com/it-it/teams?ui=it-it&rs=it-it&ad=i >`__  
+Per un approfondimento su tutte le funzionalità messe a disposizione dall’applicativo è comunque possibile consultare `l\’apposita guida online su Microsoft Teams. <https://support.microsoft.com/it-it/teams?ui=it-it&rs=it-it&ad=i >`__  
 
 12.2 Altri servizi in *Cloud*
 ------------------------
 
-L’utente può avere necessità di accedere ad altri servizi e risorse forniti da terzi secondo il modello del `cloud computing <\l>`__ (es. servizi di posta elettronica ed archiviazione di: *Google*, *Yahoo*,  *Microsoft*, *Amazon*, ecc.). A garanzia della sicurezza degli utenti, dei dati e delle infrastrutture di Corte, è tuttavia indispensabile in tali casi utilizzare credenziali (*user-id* e  *password*) diverse da quelle utilizzate per l’accesso alle risorse interne della Corte dei conti.
+L’utente può avere necessità di accedere ad altri servizi e risorse forniti da terzi secondo il modello del :term:`cloud computing` (es. servizi di posta elettronica ed archiviazione di: *Google*, *Yahoo*,  *Microsoft*, *Amazon*, ecc.). A garanzia della sicurezza degli utenti, dei dati e delle infrastrutture di Corte, è tuttavia indispensabile in tali casi utilizzare credenziali (*user-id* e  *password*) diverse da quelle utilizzate per l’accesso alle risorse interne della Corte dei conti.
 
 Data la natura innovativa dei servizi in Cloud, nuovi strumenti di lavoro vengono costantemente messi a disposizione dell’utenza, la quale è invitata a provarne autonomamente le funzionalità e la rispondenza alle proprie esigenze lavorative. L’elenco degli strumenti e delle “app” disponibili, unitamente alle informazioni approfondite sul relativo utilizzo, è reperibile sul `portale di Microsoft 365 <https://www.microsoft.com/it-it/microsoft-36 >`__ al quale si rimanda anche per la formazione mirata sugli strumenti Microsoft.
 
