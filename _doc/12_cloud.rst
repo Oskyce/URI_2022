@@ -2,11 +2,14 @@
 **12. Servizi in Cloud**
 ****************************
 
+12.1 *Cloud della Corte dei conti* 
+-----------------------------
+
 Gli strumenti di *Office Automation* adottati dalla Corte dei conti (*Microsoft 365*) utilizzano appieno le potenzialità del *C\ *\ `loud <bookmark://_GLOSSARIO_dei_termini>`__\ *,* agevolando un cambio di paradigma nella gestione consapevole del lavoro proprio, degli uffici, dell’organizzazione.
 
 Fra i principali strumenti attualmente disponibili si evidenziano i seguenti.
 
- *SharePoint Online* 
+12.1.1 *SharePoint Online* 
 ~~~~~~~~~~~~~~~~~~~
 
 È una risorsa flessibile per creare siti *Web*, archiviare, organizzare, condividere e accedere alle informazioni da qualsiasi dispositivo.
@@ -17,7 +20,7 @@ Ogni Ufficio può richiedere a DGSIA/CUS l'apertura di un sito da personalizzare
 richiesta è attivabile da ,\ `Mappa servizi <https://mappaservizi.corteconti.it/>`__ digitando nel campo di ricerca la voce "*Creazione Area di Lavoro*". 
 Permette di organizzare i propri *file*\ s in maniera da renderli indipendenti dal dispositivo utilizzato, salvaguardando il lavoro di ognuno da guasti improvvisi della postazione, ma anche dal furto o dalla indisponibilità della stessa.
 
- *Onedrive* 
+12.1.2 *Onedrive* 
 ~~~~~~~~~~
 
 Lo strumento, tramite l’utilizzo di risorse in *Cloud*, consente: l’accesso ai propri dati da qualsiasi dispositivo connesso ad *Iinternet*, la sincronizzazione automatica con uno o più dispositivi, la condivisione di documenti con altri utenti, il versionamento automatico dei *files.* Garantisce, inoltre, la sicurezza e l’integrità dei dati. 
@@ -28,7 +31,7 @@ L’attuale spazio di archiviazione offerto ad ogni dipendente della Corte è di
 
 L’accesso a tutti i *files,* salvati nello spazio della risorsa informatica di Corte *OneDrive,* è legato a credenziali personali ed è nella responsabilità e cura del dipendente, che –si ricorda- in caso di violazione o mero tentativo è comunque tenuto a darne pronto avviso sia al datore di lavoro, sia alle Autorità competenti. Anche l’accesso a *OneDrive* è condizionato alla persistenza del rapporto di lavoro e viene a cessare con esso, così come per tutti gli altri *software* acquistati per e per conto della Corte dei conti.
 
- *Microsoft Teams*
+12.1.3 *Microsoft Teams*
 ~~~~~~~~~~~~~~~~~
 
 L’applicativo Microsoft Teams rende disponibile un'area di lavoro integrata e collaborativa, incentrata sulla chat, che include diverse funzionalità quali: 
@@ -52,7 +55,7 @@ In ultimo si vuole evidenziare che l'utilizzo di *Microsoft Teams* per l’organ
 
 Per un approfondimento su tutte le funzionalità messe a disposizione dall’applicativo è comunque possibile consultare `l’apposita guida online su Microsoft Teams. <https://support.microsoft.com/it-it/teams?ui=it-it&rs=it-it&ad=i >`__  
 
-Altri servizi in *Cloud*
+12.2 Altri servizi in *Cloud*
 ------------------------
 
 L’utente può avere necessità di accedere ad altri servizi e risorse forniti da terzi secondo il modello del `cloud computing <\l>`__ (es. servizi di posta elettronica ed archiviazione di: *Google*, *Yahoo*,  *Microsoft*, *Amazon*, ecc.). A garanzia della sicurezza degli utenti, dei dati e delle infrastrutture di Corte, è tuttavia indispensabile in tali casi utilizzare credenziali (*user-id* e  *password*) diverse da quelle utilizzate per l’accesso alle risorse interne della Corte dei conti.
