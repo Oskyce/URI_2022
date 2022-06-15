@@ -17,7 +17,7 @@ Fra i principali strumenti attualmente disponibili si evidenziano i seguenti.
 Si tratta di una modalità evoluta di gestione di documenti istituzionali, che presenta notevoli vantaggi, quali la gestione automatica delle versioni, l’accessibilità via *Web* e dispositivi mobili e la ricerca "*full-text*" .
 
 Ogni Ufficio può richiedere a DGSIA/CUS l'apertura di un sito da personalizzare e gestire in autonomia, con possibilità di visibilità selettiva (parziale o totale) per gli utenti interni o esterni. La
-richiesta è attivabile da, \ `Mappa servizi <https://mappaservizi.corteconti.it/>`__ digitando nel campo di ricerca la voce "*Creazione Area di Lavoro*". 
+richiesta è attivabile da \ `Mappa servizi <https://mappaservizi.corteconti.it/>`__ digitando nel campo di ricerca la voce "*Creazione Area di Lavoro*". 
 Permette di organizzare i propri *file*\ s in maniera da renderli indipendenti dal dispositivo utilizzato, salvaguardando il lavoro di ognuno da guasti improvvisi della postazione, dal furto o dalla indisponibilità della stessa.
 
 12.1.2 *Onedrive* 
