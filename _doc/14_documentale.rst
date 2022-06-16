@@ -9,6 +9,6 @@ Il “\ `Manuale di Gestione del Protocollo Informatico, dei Documenti e dell'Ar
 
 I tempi di conservazione delle unità documentali o archivistiche, suddivise per aree funzionali, sono quelli individuati dal Decreto Presidenziale n. 23 del 15 febbraio 2019.  L’utente è reso edotto che, in caso di interruzione del rapporto di lavoro, i dati e i documenti presenti nell’a\ `rchivio personale <#ArchivioPersonale>`__ (*OneDrive,* cartella locale, etc.) saranno definitivamente cancellati. 
 
-I documenti trasferiti nell’ :term:`Archivio istituzionale` (*Sharepoint*, *Teams*, altre applicazioni della Corte dei conti) imangono nella piena disponibilità della Corte. 
+I documenti trasferiti nell’ :term:`Archivio istituzionale` (*Sharepoint*, *Teams*, altre applicazioni della Corte dei conti) rimangono nella piena disponibilità della Corte. 
 
 ..
