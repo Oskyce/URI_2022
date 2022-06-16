@@ -23,7 +23,15 @@ Permette di organizzare i propri *file*\ s in maniera da renderli indipendenti d
 12.1.2 *Onedrive* 
 ~~~~~~~~~~
 
-Lo strumento, tramite l’utilizzo di risorse in *Cloud*, consente: l’accesso ai propri dati da qualsiasi dispositivo connesso ad *Iinternet*, la sincronizzazione automatica con uno o più dispositivi, la condivisione di documenti con altri utenti, il versionamento automatico dei *files.* Garantisce, inoltre, la sicurezza e l’integrità dei dati. 
+Lo strumento, tramite l’utilizzo di risorse in *Cloud*, consente: 
+
+*	l’accesso ai propri dati da qualsiasi dispositivo connesso ad *Iinternet*
+*	la sincronizzazione automatica con uno o più dispositivi, 
+*	la condivisione di documenti con altri utenti, 
+*	il versionamento automatico dei *files.* 
+
+Garantisce, inoltre, la sicurezza e l’integrità dei dati. 
+
 
 **L’utilizzo di OneDrive è obbligatorio per ogni dipendente**, in quanto esso sostituisce le operazioni di salvataggio (:term:`backup<Backup>`) e di ripristino (*restore*) dei dati presenti nelle postazioni individuali di lavoro. Tali operazioni, dunque, non sono più svolte da DGSIA/CUS, neanche a fronte della sostituzione delle postazioni di lavoro per trasferimento o altra causa. 
 
