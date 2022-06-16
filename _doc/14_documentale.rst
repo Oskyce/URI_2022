@@ -5,8 +5,10 @@ Il patrimonio informativo della Corte dei conti è composto da diverse tipologie
 
 Essi rappresentano un valore ed una risorsa. Richiedono, quindi, una corretta gestione, conservazione e valorizzazione nell’ambito di un  :term:`sistema di Gestione documentale informatizzata<sistema di Gestione documentale>` “a norma”.
 
-I dettagli tecnici, normativi e organizzativi della relativa gestione si rinvengono nel vigente `Manuale di Gestione documentale <http://www.corteconti.it/export/sites/portalecdc/_documenti/amministrazione_trasparente/provvedimenti/regolamenti_e_manuali/manuale_della_gestione_documentale.pdf>`_ , di cui è raccomandata l’attenta consultazione e la scrupolosa applicazione.
+Il *“\ *\ `Manuale di Gestione del Protocollo Informatico, dei Documenti e dell'Archivio <https://intranet.corteconti.it/Download/id/8613eb85-becd-497a-bc73-2ff454527b7d/FileType/O>`__\ *\ ”,* di cui si raccomandano l’attenta consultazione e la scrupolosa applicazione, è lo strumento che definisce la *policy* e descrive le procedure per la formazione, la gestione nel tempo e l’archiviazione dei documenti (analogici e digitali).
 
-L’utente è reso edotto che, in caso di interruzione del rapporto di lavoro, i dati e i documenti presenti nell’ :term:`archivio personale` (cartella locale, *Onedrive*, etc.) saranno definitivamente cancellati; quelli trasferiti nell’ :term:`Archivio istituzionale` (*Sharepoint, Teams,* altre applicazioni della Corte dei Conti) rimangono nella piena disponibilità della Corte.
+I tempi di conservazione delle unità documentali o archivistiche, suddivise per aree funzionali, sono quelli individuati dal Decreto Presidenziale n. 23 del 15 febbraio 2019.  L’utente è reso edotto che, in caso di interruzione del rapporto di lavoro, i dati e i documenti presenti nell’a\ `rchivio personale <#ArchivioPersonale>`__ (*OneDrive,* cartella locale, etc.) saranno definitivamente cancellati. 
+
+I documenti trasferiti nell’\ `Archivio istituzionale <\l>`__ (*Sharepoint, Teams*, altre applicazioni della Corte dei conti) imangono nella piena disponibilità della Corte. 
 
 ..

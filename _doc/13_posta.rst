@@ -51,7 +51,7 @@ Le caselle di PEC sono assegnate agli uffici, agli organi ovvero a specifiche fu
 
 *PEC&Mail* (già PEC *Manager*) è lo strumento che Corte ha introdotto per semplificare la gestione dei messaggi di Posta Elettronica Certificata (PEC) anche sotto il profilo dimensionale, svincolandosi da eventuali limiti imposti dai provider. Lo strumento consente, altresì, di visualizzare i messaggi PEC correlandoli alle rispettive ricevute di accettazione/consegna, aumenta la protezione da possibili cancellazioni accidentali e permette di accedere con le proprie credenziali di dominio.
 
-DGSIA/CUS, quale Amministratore del Servizio, presiede al rilascio di caselle, all’aggiornamento della relativa pubblicazione sull’IPA, nonché all’assistenza informativa a tutti gli operatori interessati\ [STRIKEOUT:, anche per i contatti con i gestori].
+DGSIA/CUS, quale Amministratore del Servizio, presiede al rilascio di caselle, all’aggiornamento della relativa pubblicazione sull’IPA, nonché all’assistenza informativa a tutti gli operatori interessati.
 
 A ciascun indirizzo PEC è associato il nominativo di un responsabile (magistrato, dirigente, funzionario preposto, funzionario delegato).  
 
