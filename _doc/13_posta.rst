@@ -47,7 +47,7 @@ In questi ultimi casi, su disposizione del Presidente della Corte dei conti, all
 
 **13.2 Posta Elettronica Certificata (PEC)**
 --------------------------------------------------
-Le caselle di PEC sono assegnate agli uffici, agli organi ovvero a specifiche funzioni per esclusive finalità istituzionali. I relativi indirizzi sono pubblicati `nell'Indice delle P.A.  http://www.indicepa.gov.it/documentale/index.php>`__ (I.P.A.). 
+Le caselle di PEC sono assegnate agli uffici, agli organi ovvero a specifiche funzioni per esclusive finalità istituzionali. I relativi indirizzi sono pubblicati `nell'Indice delle P.A.  <https://www.indicepa.gov.it/ipa-portale/>`__ (I.P.A.). 
 
 *PEC&Mail* (già PEC *Manager*) è lo strumento che Corte ha introdotto per semplificare la gestione dei messaggi di Posta Elettronica Certificata (PEC) anche sotto il profilo dimensionale, svincolandosi da eventuali limiti imposti dai provider. Lo strumento consente, altresì, di visualizzare i messaggi PEC correlandoli alle rispettive ricevute di accettazione/consegna, aumenta la protezione da possibili cancellazioni accidentali e permette di accedere con le proprie credenziali di dominio.
 
