@@ -15,7 +15,7 @@ espressamente autorizzate dal vertice amministrativo.
 
 L’autenticazione al dominio di Corte dei conti avviene attraverso l’inserimento della propria :term:`user-id<USER IDentifier>`  (nel formato nome.cognome@corteconti.it) e :term:`passsword<password>`  (di dominio).  Per ragioni di sicurezza, l’accesso ai servizi raggiungibili anche dall’esterno è protetto mediante una procedura di :term:`Autenticazione Forte<Multi Factor Authentication (MFA) - Strong Autentication- Autenticazione forte>`   *(*\ *Multi- Factor Authenticati*\ on) che prevede, in base alle impostazioni fornite dall’utente in fase di abilitazione o modificate attraverso l’apposita sezione “Informazione di sicurezza” del proprio :term:`account<account>` aziendale, la successiva ricezione, al numero di telefono cellulare di servizio (o altro numero fornito), in alternativa di: 
 
-*	una chiamata vocale alla quale occorrerà rispondere, seguendo successivamente le indicazioni fornite (digitazione del tasto “#” (cancelletto);
+*	una chiamata vocale alla quale occorrerà rispondere, seguendo successivamente le indicazioni fornite (digitazione del tasto “#” cancelletto);
 
 *	un *SMS* contenete il codice *one-shot* da utilizzare per l’autenticazione. 
 
