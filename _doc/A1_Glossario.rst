@@ -8,18 +8,18 @@
 ===============================================
 
 +----------------------------------+----------------------------------+
-| Account                          | Insieme di funzionalità,         |
-|                                  | strumenti e contenuti            |
-|                                  | personalizzati attribuiti ad un  |
-|                                  | nome utente, in determinati      |
-|                                  | contesti operativi, per          |
-|                                  | usufruire di determinati servizi |
-|                                  | (Internet, aziendali od          |
-|                                  | applicativi). Per                |
-|                                  | approfondimenti in merito si     |
-|                                  | veda anche                       |
-|                                  | https                            |
-|                                  | ://it.wikipedia.org/wiki/Account |
+| Account                          | Insieme di funzionalità,\        |
+|                                  | strumenti e contenuti\           |
+|                                  | personalizzati attribuiti ad un\ |
+|                                  | nome utente, in determinati\     |
+|                                  | contesti operativi, per  \       |
+|                                  | usufruire di determinati servizi\|
+|                                  | (Internet, aziendali od     \    |
+|                                  | applicativi). Per        \       |
+|                                  | approfondimenti in merito si\    |
+|                                  | veda anche                  \    |
+|                                  | https                      \     |
+|                                  | ://it.wikipedia.org/wiki/Account\|
 |                                  | .                                |
 +==================================+==================================+
 | App                              | Applicazione per apparecchi      |
