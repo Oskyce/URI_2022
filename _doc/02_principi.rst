@@ -26,7 +26,7 @@ In attuazione dei richiamati principi, la DGSIA:
 
 -  attua e promuove buone pratiche lavorative per la diffusione della semplificazione e digitalizzazione dei processi amministrativi;
 
--  esplora e realizza modalità di collaborazione e condivisione di sinergie e di intenti con altre amministrazioni pubbliche, attraverso l’utilizzo comune, partecipato ed ottimizzato di infrastrutture ICT in forma di *network* (es. Idea@PA per Cnel e Avvocatura dello Stato), anche in relazione al contenimento degli oneri;
+-  esplora e realizza modalità di collaborazione e condivisione di sinergie e di intenti con altre amministrazioni pubbliche, attraverso l’utilizzo comune, partecipato ed ottimizzato di infrastrutture ICT in forma di *network* (es. Idea\@PA per Cnel e Avvocatura dello Stato), anche in relazione al contenimento degli oneri;
 
 -  pone particolare attenzione ai livelli di sicurezza informatica, in conformità alla normativa europea e nazionale in tema di protezione dei dati personali.
 
