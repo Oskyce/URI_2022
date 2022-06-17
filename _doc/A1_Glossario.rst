@@ -4,9 +4,6 @@
 
 .. glossary::
 
-    GLOSSARIO dei principali termini di riferimento
-===============================================
-
 +----------------------------------+----------------------------------+
 | Account                          | Insieme di funzionalità,         |
 |                                  | strumenti e contenuti            |
@@ -18,7 +15,7 @@
 |                                  | applicativi). Per                |
 |                                  | approfondimenti in merito si     |
 |                                  | veda anche                       |
-|                                  | https                            |
+|                                  | https                          |
 |                                  | ://it.wikipedia.org/wiki/Account |
 |                                  | .                                |
 +==================================+==================================+
