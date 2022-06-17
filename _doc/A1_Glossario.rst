@@ -17,7 +17,6 @@
 |                                  | veda anche                       |
 |                                  | https                            |
 |                                  | ://it.wikipedia.org/wiki/Account |
-|                                  |								  |
 +==================================+==================================+
 | App                              | Applicazione per apparecchi      |
 |                                  | elettronici PC, tablet,          |
