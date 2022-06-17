@@ -2,7 +2,7 @@
 **GLOSSARIO dei principali termini di riferimento**
 ******************************************************* 
 
-.. glossary::
+
 
 +----------------------------------+----------------------------------+
 | Account                          | Insieme di funzionalità,         |
