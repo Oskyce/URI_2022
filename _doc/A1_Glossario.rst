@@ -25,7 +25,7 @@
     Cloud Computing 
         Metodologia di “erogazione di risorse informatiche, come l'archiviazione, l'elaborazione o la trasmissione di dati,” caratterizzato dalla disponibilità su richiesta (on demand) attraverso Internet a partire da un insieme di risorse preesistenti e configurabili. (fonte: https://it.wikipedia.org/wiki/Cloud_computing). Per approfondimenti sul “Cloud PA” si veda anche: http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/cloud-computing  
 		
-DGSIA/CUS
+	DGSIA/CUS
 		Acronimo per Centro Unico dei Servizi della DGSIA (Direzione Generale Sistemi Informativi Automatizzati) 
 
     Dominio
