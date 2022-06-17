@@ -2,7 +2,7 @@
 **GLOSSARIO dei principali termini di riferimento**
 ******************************************************* 
 
-
+.. glossary::
 
 +----------------------------------+----------------------------------+
 | Account                          | Insieme di funzionalità,         |
@@ -15,7 +15,7 @@
 |                                  | applicativi). Per                |
 |                                  | approfondimenti in merito si     |
 |                                  | veda anche                       |
-|                                  | https                          |
+|                                  | https                            |
 |                                  | ://it.wikipedia.org/wiki/Account |
 |                                  | .                                |
 +==================================+==================================+
