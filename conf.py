@@ -62,6 +62,10 @@ html_theme = 'sphinx_rtd_theme'
 
 html_favicon = 'favicon.ico'
 
+html_sidebars = {
+    "**": ["search-field", "sidebar-nav-bs"]
+}
+
 html_theme_options = {
     # Toc options
     'collapse_navigation': False,
