@@ -25,6 +25,7 @@ Vers. 2 – 1.2022
    _doc/15_tutela
    _doc/16_diritti
    _doc/17_decorrenza
+   _doc/18_appendice
 
 **Allegati**
 
