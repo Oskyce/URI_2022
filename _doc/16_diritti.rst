@@ -28,6 +28,6 @@ Nella sezione Appendice vengono fornite ulteriori e dettagliate informazioni rel
 *	separazione personale legale fra coniugi
 *	unioni civili
 
-[1] prova
 
-..
+
+.. [1] prova
