@@ -1,5 +1,5 @@
 *******************************************************
-**GLOSSARIO dei principali termini di riferimento**
+**Glossario dei principali termini di riferimento**
 ******************************************************* 
 
 .. glossary::

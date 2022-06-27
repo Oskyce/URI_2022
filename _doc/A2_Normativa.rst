@@ -1,47 +1,160 @@
 *******************************************************
 **Normativa di riferimento**
 ******************************************************* 
+
 **Amministrazione digitale**
 -----------------------------
 
-.. glossary::
 
-    Codice dell’Amministrazione digitale – CAD
-		`Decreto legislativo 7 marzo 2005, n. 82. <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=>`_. Per la digitalizzazione e la riorganizzazione dei processi l’art. 15 c. 2, “… le pubbliche amministrazioni provvedono in particolare a razionalizzare e semplificare i procedimenti amministrativi, le attività gestionali, i documenti, la modulistica, le modalità di accesso e di presentazione delle istanze da parte dei cittadini e delle imprese...” 
-
-		
-	Carta della cittadinanza digitale
-		`Legge n. 124/2015 “Deleghe al Governo in materia di riorganizzazione delle P.A. art. 1 <http://www.normattiva.it/do/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2015-08-13&atto.codiceRedazionale=15G00138>`_ 
-
-	Regole Tecniche, Linee Guida
-		`DD.P.C.M. del 3.12.2013 Regole tecniche sul protocollo informatico e sulla conservazione documentale <http://www.agid.gov.it/sites/default/files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf>`_; `D.P.C.M. del 13 novembre 2014 Regole   tecniche   in   materia   di formazione   trasmissione, copia, duplicazione, riproduzione  e  validazione  temporale dei  documenti  informatici  nonché  di  formazione  e  conservazione dei documenti informatici delle P.A. <http://www.agid.gov.it/sites/default/files/regole_tecniche/dpcm_13_11_2014.pdf>`_         
-
-	Testo Unico sulla Documentazione Amministrativa - TUDA
-		`Decreto Del Presidente della Repubblica 28 dicembre 2000, n. 445 “Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa <http://www.gazzettaufficiale.it/eli/id/2001/02/20/001G0049/sg>`_  
-
-**Trasformazione digitale – Linee di indirizzo**
--------------------------------------------------
-
-.. glossary::
-
-	Linee Generali di Indirizzo dell’azione amministrativa per l'anno 2018
-		`Linee Generali di Indirizzo dell’azione amministrativa per l'anno 2018 emanate dal Presidente con Atto del 5.4.2018 Prot. n. 938. <C:\Users\cristiana_carratu\AppData\Local\Microsoft\Windows\INetCache\IE\ITO7GRZO\LINEE GENERALI DI INDIRIZZO DELL’AZIONE AMMINISTRATIVA PER L'ANNO 2018>`_ 
-
-	PTIPA – Piano Triennale per l’Informatica nella P.A. 2017-2019
-		`Piano Triennale per l’informatica nella PA 2017-19 <https://pianotriennale-ict.readthedocs.io/it/latest/>`_: Documento di indirizzo strategico ed economico di guida per la trasformazione digitale della P.A. approvato dal Presidente del Consiglio il 31 marzo 2017.
-
-                                                                                                                                                                                                                                                                                 
-**Privacy**
------------
-
-.. glossary::
-
-	Codice in materia di protezione dei dati personali
-		`Decreto legislativo 30 giugno 2003, n. 196. <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=>`_
-		
-	Regolamento UE n.   2016/679– GDPR (General Data Protection   Regulation)
-		`Regolamento UE n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ITA>`_ relativo   alla protezione delle persone fisiche con riguardo al trattamento dei dati   personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).                                                                                                                                                       
-    
++----------------------------------------------------------------------+
+|    `Codice                                                           |
+|    civile <https://www.normat                                        |
+| tiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262>`__, |
+|    R.D. 16 marzo 1942, n. 262.                                       |
++======================================================================+
+|    `Costituzione della Repubblica                                    |
+|    italiana <h                                                       |
+| ttps://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione>`__ |
+|    (G.U. 27 dicembre 1947, n. 298, ediz. straord. ed entrata in      |
+|    vigore al 1° gennaio 1948).                                       |
++----------------------------------------------------------------------+
+|    `d.P.R. 10 gennaio 1957, n.                                       |
+|    3 <https://www.normattiva.it/atto/                                |
+| caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=1957-01-25&atto.c |
+| odiceRedazionale=057U0003&atto.articolo.numero=0&atto.articolo.sotto |
+| Articolo=1&atto.articolo.sottoArticolo1=10&qId=dde8f945-6936-47ac-89 |
+| 25-af04f4ed67a8&tabID=0.5860600965869343&title=lbl.dettaglioAtto>`__ |
+|    “\ *Testo unico delle disposizioni concernenti lo statuto degli   |
+|    impiegati civili dello Stato*\ ”.                                 |
++----------------------------------------------------------------------+
+|    `Legge 7 agosto 1990, n.                                          |
+|    241 <https://www.normattiva.it/atto/                              |
+| caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=1990-08-18&atto.c |
+| odiceRedazionale=090G0294&atto.articolo.numero=0&atto.articolo.sotto |
+| Articolo=1&atto.articolo.sottoArticolo1=10&qId=41a008f7-f0fc-487f-89 |
+| 7c-043a01ffdda1&tabID=0.5860600965869343&title=lbl.dettaglioAtto>`__ |
+|    e ss.mm.ii. “\ *Nuove norme in materia di procedimento            |
+|    amministrativo e di diritto di accesso ai documenti               |
+|    amministrativi”.*                                                 |
++----------------------------------------------------------------------+
+|    `d.P.R. 28 dicembre 2000, n.                                      |
+|    445 <https://www.normattiva.it/atto/                              |
+| caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2001-02-20&atto.c |
+| odiceRedazionale=001G0049&atto.articolo.numero=0&atto.articolo.sotto |
+| Articolo=1&atto.articolo.sottoArticolo1=10&qId=480f3ec8-4a35-45ec-be |
+| 97-e3d816438b33&tabID=0.5860600965869343&title=lbl.dettaglioAtto>`__ |
+|    “\ *Testo unico delle disposizioni legislative e regolamentari in |
+|    materia di documentazione amministrativa”*                        |
++----------------------------------------------------------------------+
+|    `Decreto legislativo 30 marzo 2001, n.                            |
+|    165 <https://www.normattiva.it/atto/                              |
+| caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2001-05-09&atto.c |
+| odiceRedazionale=001G0219&atto.articolo.numero=0&atto.articolo.sotto |
+| Articolo=1&atto.articolo.sottoArticolo1=10&qId=d1e1776e-aa44-4aac-b1 |
+| 9c-a8600bc7ce1d&tabID=0.5860600965869343&title=lbl.dettaglioAtto>`__ |
+|    *“Norme generali sull’ordinamento del lavoro alle dipendenze      |
+|    delle amministrazioni pubbliche”.*                                |
++----------------------------------------------------------------------+
+|    `Decreto Legislativo 30 giugno 2003, n.                           |
+|    196 <https://www.normattiva.it/atto/                              |
+| caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2003-07-29&atto.c |
+| odiceRedazionale=003G0218&atto.articolo.numero=0&atto.articolo.sotto |
+| Articolo=1&atto.articolo.sottoArticolo1=10&qId=2f411275-a9bd-4dc7-b9 |
+| e3-422c11213ef4&tabID=0.5860600965869343&title=lbl.dettaglioAtto>`__ |
+|    *“Codice in materia di protezione dei dati personali, recante     |
+|    disposizioni per l’adeguamento dell’ordinamento nazionale al      |
+|    regolamento (UE) n. 2016/679 del Parlamento europeo e del         |
+|    Consiglio, del 27 aprile 2016, relativo alla protezione delle     |
+|    persone fisiche con riguardo al trattamento dei dati personali,   |
+|    nonché alla libera circolazione di tali dati e che abroga la      |
+|    direttiva 95/46/CE”.*                                             |
++----------------------------------------------------------------------+
+|    `d.P.R. 11 febbraio 2005, n.                                      |
+|    68 <https://www.normattiva.it/atto/                               |
+| caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2005-04-28&atto.c |
+| odiceRedazionale=005G0091&atto.articolo.numero=0&atto.articolo.sotto |
+| Articolo=1&atto.articolo.sottoArticolo1=10&qId=c8d6d8ec-3ef1-4658-ac |
+| 84-97705790ab3a&tabID=0.5860600965869343&title=lbl.dettaglioAtto>`__ |
+|    “\ *Regolamento recante disposizioni per l’utilizzo della posta   |
+|    elettronica certificata, a norma dell’articolo 27 della legge 16  |
+|    gennaio 2003, n. 3”*.                                             |
++----------------------------------------------------------------------+
+|    `Decreto legislativo 7 marzo 2005, n. 82 e                        |
+|    ss.mm. <https://www.normattiva.it/atto/                           |
+| caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2018-01-12&atto.c |
+| odiceRedazionale=18G00003&atto.articolo.numero=0&atto.articolo.sotto |
+| Articolo=1&atto.articolo.sottoArticolo1=10&qId=bbee08e5-d086-4520-b1 |
+| 6b-9ba775d293b7&tabID=0.5860600965869343&title=lbl.dettaglioAtto>`__ |
+|    *“Codice dell’amministrazione digitale”*                          |
++----------------------------------------------------------------------+
+|    `D.P.C.M. 3 aprile 2006, n.                                       |
+|    200 <https://www.normattiva.it/atto/                              |
+| caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2006-05-31&atto.c |
+| odiceRedazionale=006G0218&atto.articolo.numero=0&atto.articolo.sotto |
+| Articolo=1&atto.articolo.sottoArticolo1=10&qId=074d5509-2371-4093-bd |
+| 48-64f3e2636dd4&tabID=0.5860600965869343&title=lbl.dettaglioAtto>`__ |
+|    *“Regolamento recante modalità di coordinamento, attuazione ed    |
+|    accesso al Registro informatico degli adempimenti                 |
+|    amministrativi”*                                                  |
++----------------------------------------------------------------------+
+|    `Decreto legislativo 27 ottobre 2009, n.                          |
+|    150 <https://www.normattiva.it/atto/                              |
+| caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2009-10-31&atto.c |
+| odiceRedazionale=009G0164&atto.articolo.numero=0&atto.articolo.sotto |
+| Articolo=1&atto.articolo.sottoArticolo1=10&qId=7e3001e4-d71b-4cda-be |
+| a8-406862b526e9&tabID=0.5860600965869343&title=lbl.dettaglioAtto>`__ |
+|    *“Attuazione della legge 4 marzo 2009, n. 15, in materia di       |
+|    ottimizzazione della produttività del lavoro pubblico e di        |
+|    efficienza e trasparenza delle pubbliche amministrazioni”*        |
++----------------------------------------------------------------------+
+|    `d.P.R. 16 aprile 2013, n.                                        |
+|    62 <https://www.normattiva.it/atto/                               |
+| caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2013-06-04&atto.c |
+| odiceRedazionale=13G00104&atto.articolo.numero=0&atto.articolo.sotto |
+| Articolo=1&atto.articolo.sottoArticolo1=10&qId=8f9ed050-a0a1-4d81-92 |
+| b9-21f460f56f50&tabID=0.5860600965869343&title=lbl.dettaglioAtto>`__ |
+|    *“Regolamento recante codice di comportamento dei dipendenti      |
+|    pubblici, a norma dell’articolo 54 del decreto legislativo 30     |
+|    marzo 2001, n. 165”*                                              |
++----------------------------------------------------------------------+
+|    `Decreto legislativo 14 marzo 2013, n.                            |
+|    33 <https://www.normattiva.it/atto/                               |
+| caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2013-04-05&atto.c |
+| odiceRedazionale=13G00076&atto.articolo.numero=0&atto.articolo.sotto |
+| Articolo=1&atto.articolo.sottoArticolo1=10&qId=03aad49c-6d7e-49dc-a0 |
+| 26-afe73cfabafd&tabID=0.5860600965869343&title=lbl.dettaglioAtto>`__ |
+|    *“Riordino della disciplina riguardante il diritto di accesso     |
+|    civico e gli obblighi di pubblicità, trasparenza e diffusione di  |
+|    informazioni da parte delle pubbliche amministrazioni”*           |
++----------------------------------------------------------------------+
+|    `Legge 7 agosto 2015, n.                                          |
+|    124 <https://www.normattiva.it/atto/                              |
+| caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2015-08-13&atto.c |
+| odiceRedazionale=15G00138&atto.articolo.numero=0&atto.articolo.sotto |
+| Articolo=1&atto.articolo.sottoArticolo1=10&qId=e95c00e9-c69d-498f-9b |
+| b0-9ef38cbacb31&tabID=0.5860600965869343&title=lbl.dettaglioAtto>`__ |
+|    *“Deleghe al Governo in materia di riorganizzazione delle         |
+|    amministrazioni pubbliche”*                                       |
++----------------------------------------------------------------------+
+|    `Decreto legislativo 10 agosto 2018, n.                           |
+|    101 <https://www.normattiva.it/atto/caricaDettaglioAtto           |
+| ?atto.dataPubblicazioneGazzetta=2018-09-04&atto.codiceRedazionale=18 |
+| G00129&atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.art |
+| icolo.sottoArticolo1=10&qId=53e2d1ad-8771-41fa-8033-8ae9ca4c380e>`__ |
+|    *“Disposizioni per l’adeguamento della normativa nazionale alle   |
+|    disposizioni del Regolamento (UE) 2016/679 del Parlamento europeo |
+|    e del Consiglio, del 27 aprile 2016, relativo alla protezione     |
+|    delle persone fisiche con riguardo al trattamento dei dati        |
+|    personali, nonché alla libera circolazione di tali dati e che     |
+|    abroga la direttiva 95/46/CE (regolamento generale sulla          |
+|    protezione dei dati)”*                                            |
++----------------------------------------------------------------------+
+|    `Regolamento UE 2018/1807 del 14 novembre                         |
+|    2018 <https:/                                                     |
+| /eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32018R1807>`__, |
+|    relativo a un quadro applicabile alla libera circolazione dei     |
+|    dati non personali nell’Unione europea.                           |
++----------------------------------------------------------------------+
 	
 
 ..
