@@ -1,26 +1,23 @@
 *********************************
 **15. Gestione e tutela dati**
 *********************************
-La Corte dei conti fornisce tutti gli strumenti e adotta tutte le misure per mantenere in sicurezza i dati.
+La Corte dei conti fornisce tutti gli strumenti e adotta tutte le misure per mantenere in sicurezza i dati secondo le normative vigenti in materia. 
+Si rammenta a riguardo, inoltre, che sono state emanate dall’Istituto le nuove `Linee Guida sulla Protezione dei Dati Personali nella Corte dei conti <https://www.corteconti.it/Download?id=cbe6ad78-2116-4670-9d76-1228045973e5>`__ , versione 1.2022 del 2 febbraio 2022, cui esplicitamente si rinvia e che si trovano pubblicate sull’Intranet istituzionale. Si ricorda altresì che il `Decreto presidenziale della Corte dei conti del 1° febbraio 2021, n. 20 <https://www.corteconti.it/Download?id=b13de4fe-f002-41e0-9b64-2de060374b72>`__ definisce l’assetto organizzativo ed individua i soggetti attivi del trattamento dei dati personali in seno all’Istituto. Per completezza espositiva, s’informa che ogni informazione, consultazione e comunicazione sulla materia dei dati personali è indirizzabile al Titolare del trattamento dei dati, per il tramite del Responsabile della Protezione dei Dati (RPD o altrimenti detto DPO, Data Protection Officer), ai seguenti indirizzi : e-mail, responsabile.protezione.dati@corteconti.it; pec, responsabile.protezione.dati@corteconticert.it.
 
-L’Istituto garantisce, in particolare, il progressivo e completo adeguamento alle procedure previste dalla normativa vigente sulla protezione dei dati, applicando le massime misure di sicurezza oggi consentite dalla tecnologia di settore. Con specifico riguardo al sistema di gestione documentale, è in via di attuazione una metodologia di :term:`Privacy impact assessment (PIA)` conforme alle prescrizioni della normativa.
+L’Istituto garantisce, in particolare, il progressivo e completo adeguamento alle procedure previste dalla normativa vigente sulla protezione dei dati, applicando le massime misure di sicurezza oggi consentite dalla tecnologia di settore. 
 
-Più in generale, la protezione degli utenti e dell’Istituto è perseguita, tra gli altri, mediante gli accorgimenti indicati di seguito, a titolo esemplificativo. 
-
-Tutte le postazioni di lavoro della Corte recepiscono in tempo reale gli aggiornamenti di sicurezza inerenti il sistema operativo, le applicazioni e i sistemi anti*virus*. Esse sono protette da sofisticati sistemi di rilevazione di codice al fine di garantire la riservatezza e l’integrità dei dati.
+In generale, la protezione degli utenti e dell’Istituto è perseguita, tra gli altri, mediante le tutele indicate di seguito, a mero titolo esemplificativo. 
+Tutte le postazioni di lavoro della Corte recepiscono in tempo reale gli aggiornamenti di sicurezza relativi al sistema operativo, le applicazioni e i sistemi antivirus. Esse sono protette da sofisticati sistemi di rilevazione di codice al fine di garantire la riservatezza e l’integrità dei dati.
 
 Per i P.C. portatili (*notebook*) è possibile richiedere l’attivazione della crittografia completa del disco fisso, a garanzia della indecifrabilità dei dati in esso contenuti in caso di furto o smarrimento.
-
 Tutti i sistemi informativi della Corte sono sottoposti a livelli differenziati e continui di monitoraggio, tesi a verificare il grado di disponibilità dei servizi, delle prestazioni delle applicazioni e delle specifiche componenti sistemistiche e/o applicative, nonché per rilevare eventuali abusi commessi in danno degli utenti stessi ovvero dell’Istituto. Ciò implica che le attività degli utenti e le operazioni dei sistemi siano tracciate con l’opportuno livello di dettaglio, in conformità delle norme vigenti. I dati di tracciatura sono conservati per il tempo strettamente necessario alle finalità dinanzi descritte.
-
 In caso di incidente informatico, su indicazione dei vertici istituzionali, DGSIA effettuerà tutte le indagini del caso, nei limiti consentiti dalla normativa vigente in materia di protezione dei dati personali, attivando le contromisure che si rendessero necessarie.
 
 Tutti gli utenti sono chiamati a contribuire alla sicurezza propria e delle risorse informatiche della Corte dei conti.
+A tal fine, essi hanno cura di bloccare il dispositivo in uso, qualora si allontanino anche per breve tempo dalla postazione di lavoro; è buona prassi, prima di bloccare la postazione, salvare eventuali files aperti.
+Agli utenti stessi è rimessa la tempestiva segnalazione di eventuali sospette anomalie di funzionamento delle risorse informatiche, attivando una richiesta di supporto tramite il `Service Desk <https://aperturaticket.corteconti.it/>`__ . 
 
-A tal fine, essi hanno cura di bloccare il dispositivo in uso (*ctrl+alt+canc* seguito da invio), qualora si allontanino anche per breve tempo dalla postazione di lavoro; è buona prassi, prima di bloccare la postazione, salvare eventuali file aperti.
+Infine, è appena il caso di richiamare la necessità, per gli utenti delle risorse informatiche, di adottare costantemente comportamenti responsabili e consapevoli, ispirati al buon senso, prima ancora che leciti e legittimi, conformi ai doveri generali d’ufficio, di diligenza, correttezza e fedeltà, che regolano il rapporto di lavoro, come disciplinati dalla normativa vigente (cfr. Artt. 28 Cost.; per il Personale contrattualizzato: decreto legislativo 30 marzo 2001, n. 165; decreto del Presidente della Repubblica 16 aprile 2013, n. 62; nonché d.P.R. 10 gennaio 1957, n. 3), ivi comprese le disposizioni del Codice disciplinare (allegato al vigente CCNL) e dello specifico `Codice di comportamento dei Dipendenti della Corte <https://intranet.corteconti.it/Download/id/b696cdfe-8383-489a-a17e-0f39a0379fab/FileType/O>`__  , pubblicato sull’Intranet istituzionale.
 
-Agli utenti stessi è rimessa la tempestiva segnalazione di eventuali sospette anomalie di funzionamento delle risorse informatiche, attivando senza indugio una richiesta di supporto tramite il *Service Desk*.
-
-Infine, è appena il caso di richiamare la necessità, per gli utenti delle risorse informatiche, di adottare costantemente comportamenti responsabili e consapevoli, ispirati al buon senso prima ancora che leciti, conformi ai doveri generali d’ufficio, di diligenza, correttezza e fedeltà che regolano il rapporto di lavoro, come disciplinati dalla normativa vigente, ivi comprese le disposizioni del Codice disciplinare (allegato al vigente CCNL) e del Codice di Comportamento dei Dipendenti della Corte.
 
 ..
