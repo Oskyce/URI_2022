@@ -6,7 +6,7 @@ Come noto, ogni dipendente della Corte dei conti, per lo svolgimento della propr
 
 Di conseguenza è facilmente comprensibile che tale eventuale commistione tra ambito lavorativo e personale debba essere chiarita e regolamentata, al fine di poter sempre assicurare il regolare svolgimento dell’attività propria dell’Istituzione, e al tempo stesso garantire l’esercizio dei diritti inerenti alla tutela dei dati personali da parte dei dipendenti o di eventuali aventi diritto [1]_ . 
 
-Si rammenta, preliminarmente, che tutto il Personale, magistratuale ed amministrativo, è chiamato ad agevolare e rendere possibile il lavoro tecnico-amministrativo, nel rispetto peraltro della normativa specifica sulla protezione dei dati personali, per dare corso alle richieste e alla tutela dei diritti in questione. 
+Si rammenta, preliminarmente, che tutto il Personale, magistratuale ed amministrativo, è chiamato ad agevolare e rendere possibile il lavoro tecnico-amministrativo, nel rispetto peraltro della normativa specifica sulla protezione dei dati personali, per dare corso alle richieste e alla tutela dei diritti in questione [2]_ . 
 
 Premesso ciò, si richiede, pertanto, la collaborazione degli utenti ad archiviare i propri documenti personali all’interno di una unica e specifica cartella, denominata “DOCUMENTI_PERSONALI”. 
  
@@ -30,4 +30,6 @@ Nella sezione Appendice vengono fornite ulteriori e dettagliate informazioni rel
 
 
 
-.. [1] prova
+.. [1] A livello di inquadramento generale, la tutela dei diritti viene in emersione, allorquando si hanno successioni nei rapporti personali, le quali - si ricorda - possono essere ascritte a diverse categorie, peraltro combinabili tra loro: tanto a causa di morte (mortis causā), quanto tra vivi (inter vivos).
+
+[2] Ciò è il precipitato sia della previsione, di cui all’art. 1, comma 2-bis, della L. n. 241/1990: “[i] rapporti tra il cittadino e la Pubblica Amministrazione sono improntati ai principî della collaborazione e della buona fede”, sia della normativa in materia di privacy.
