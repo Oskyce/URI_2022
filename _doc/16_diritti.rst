@@ -32,4 +32,4 @@ Nella sezione Appendice vengono fornite ulteriori e dettagliate informazioni rel
 
 .. [1] A livello di inquadramento generale, la tutela dei diritti viene in emersione, allorquando si hanno successioni nei rapporti personali, le quali - si ricorda - possono essere ascritte a diverse categorie, peraltro combinabili tra loro: tanto a causa di morte (mortis causā), quanto tra vivi (inter vivos).
 
-[2] Ciò è il precipitato sia della previsione, di cui all’art. 1, comma 2-bis, della L. n. 241/1990: “[i] rapporti tra il cittadino e la Pubblica Amministrazione sono improntati ai principî della collaborazione e della buona fede”, sia della normativa in materia di privacy.
+.. [2] Ciò è il precipitato sia della previsione, di cui all’art. 1, comma 2-bis, della L. n. 241/1990: “[i] rapporti tra il cittadino e la Pubblica Amministrazione sono improntati ai principî della collaborazione e della buona fede”, sia della normativa in materia di privacy.
