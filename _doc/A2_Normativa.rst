@@ -37,6 +37,29 @@
 
 `Regolamento UE 2018/1807 del 14 novembre 2018 “  <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32018R1807>`__, *“relativo a un quadro applicabile alla libera circolazione dei dati non personali nell’Unione europea”*
 
-**18.1	−	Linee guida o di indirizzo in materia di amministrazione digitale e di trasformazione digitale, nonché regole tecniche**
+
+**Linee guida o di indirizzo in materia di amministrazione digitale e di trasformazione digitale, nonché regole tecniche**
 --------------------------------------------------------------------------------
+
+`d.P.C.M. del 3 dicembre 2013 “  <agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_conservazione.pdf>`__, *“Regole tecniche sul protocollo informatico e sulla conservazione documentale” (Parzialmente abrogato)”*
+
+`d.P.C.M. del 13 novembre 2014 “  <https://www.agid.gov.it/sites/default/files/repository_files/regole_tecniche/dpcm_13_11_2014.pdf>`__, *“Regole   tecniche   in   materia   di formazione   trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici  nonché  di  formazione  e  conservazione dei documenti informatici delle P.A.” (abrogato)”*
+
+`Linee Guida AgID del maggio 2021 “  <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_sul_documento_informatico.pdf>`__, *“sulla formazione, gestione e conservazione del documento informatico”*
+
+
+**Linee di indirizzo della Corte dei conti in merito alla trasformazione digitale*
+--------------------------------------------------------------------------------
+
+`Linee generali di indirizzo amministrativo del 21 marzo 2022 “  <https://intranet.corteconti.it/Download/id/ddb676fe-bb89-45ff-9af0-10afee12f6b2/FileType/O>`__
+
+`d.P.C.M. del 13 novembre 2014 “  <https://www.agid.gov.it/sites/default/files/repository_files/regole_tecniche/dpcm_13_11_2014.pdf>`__, *“Regole   tecniche   in   materia   di formazione   trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici  nonché  di  formazione  e  conservazione dei documenti informatici delle P.A.” (abrogato)”*
+
+`Linee Guida AgID del maggio 2021 “  <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_sul_documento_informatico.pdf>`__, *“sulla formazione, gestione e conservazione del documento informatico”*
+
+
+
+
+
+
 
