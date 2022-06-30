@@ -48,7 +48,7 @@
 `Linee Guida AgID del maggio 2021 “  <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_sul_documento_informatico.pdf>`__, *“sulla formazione, gestione e conservazione del documento informatico”*
 
 
-**Linee di indirizzo della Corte dei conti in merito alla trasformazione digitale*
+**Linee di indirizzo della Corte dei conti in merito alla trasformazione digitale**
 --------------------------------------------------------------------------------
 
 `Linee generali di indirizzo amministrativo del 21 marzo 2022 “  <https://intranet.corteconti.it/Download/id/ddb676fe-bb89-45ff-9af0-10afee12f6b2/FileType/O>`__
