@@ -37,5 +37,6 @@
 
 `Regolamento UE 2018/1807 del 14 novembre 2018 “  <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32018R1807>__, *“relativo a un quadro applicabile alla libera circolazione dei dati non personali nell’Unione europea”*
 
-
+**18.1	−	Linee guida o di indirizzo in materia di amministrazione digitale e di trasformazione digitale, nonché regole tecniche**
+--------------------------------------------------------------------------------
 
