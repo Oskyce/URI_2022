@@ -41,7 +41,7 @@
 **Linee guida o di indirizzo in materia di amministrazione digitale e di trasformazione digitale, nonché regole tecniche**
 --------------------------------------------------------------------------------
 
-`d.P.C.M. del 3 dicembre 2013 “  <agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_conservazione.pdf>`__, *“Regole tecniche sul protocollo informatico e sulla conservazione documentale” (Parzialmente abrogato)”*
+`d.P.C.M. del 3 dicembre 2013 “  <https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_conservazione.pdf>`__, *“Regole tecniche sul protocollo informatico e sulla conservazione documentale” (Parzialmente abrogato)”*
 
 `d.P.C.M. del 13 novembre 2014 “  <https://www.agid.gov.it/sites/default/files/repository_files/regole_tecniche/dpcm_13_11_2014.pdf>`__, *“Regole   tecniche   in   materia   di formazione   trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici  nonché  di  formazione  e  conservazione dei documenti informatici delle P.A.” (abrogato)”*
 
