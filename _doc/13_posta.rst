@@ -51,7 +51,7 @@ Le caselle di PEC sono assegnate agli uffici, agli organi ovvero a specifiche fu
 
 *PEC&Mail* (già PEC *Manager*) è lo strumento che Corte ha introdotto per semplificare la gestione dei messaggi di Posta Elettronica Certificata (PEC) anche sotto il profilo dimensionale, svincolandosi da eventuali limiti imposti dai provider. Lo strumento consente, altresì, di visualizzare i messaggi PEC correlandoli alle rispettive ricevute di accettazione/consegna, aumenta la protezione da possibili cancellazioni accidentali e permette di accedere con le proprie credenziali di dominio.
 
-DGSIA/CUS, quale Amministratore del Servizio, presiede al rilascio di caselle, all’aggiornamento della relativa pubblicazione sull’IPA, nonché all’assistenza informativa a tutti gli operatori interessati.
+DGSIA/CUS, quale Amministratore del Servizio, presiede al rilascio di caselle, della relativa pubblicazione sul Registro degli Indirizzi elettronici delle Pubbliche Amministrazioni (IPA) [1]_, nonché all’assistenza informativa a tutti gli operatori interessati.
 
 A ciascun indirizzo PEC è associato il nominativo di un responsabile (magistrato, dirigente, funzionario preposto, funzionario delegato).  
 
@@ -61,4 +61,4 @@ Ciascun Responsabile ha facoltà di concedere, all'interno del proprio ufficio, 
 
 L’assegnazione di una casella PEC presuppone che la stessa venga consultata ogni giorno lavorativo con adeguata frequenza.
 
-..
+.. [1] Per completezza espositiva e per quel che concerne tutte le funzioni giurisdizionali e del controllo intestate alla Corte dei conti, si rammenta che, oltre al suddetto IPA, esistono anche altri registri di pec ai sensi dell’art. 6-bis del D.Lgs. 7 marzo 2005, n. 82 (CAD) e del D.M. Giustizia 21 febbraio 2011, n. 44: il Registro Generale Indirizzi Elettronici (ReGIndE); l’Indice Nazionale degli Indirizzi PEC (INI -PEC).
