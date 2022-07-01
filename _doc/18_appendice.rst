@@ -1,5 +1,5 @@
 *******************************
-**A. Appendice: approfondimenti giuridici**
+**Appendice: approfondimenti giuridici**
 *******************************
 
 **A.1	Digitalizzazione P.A.**
