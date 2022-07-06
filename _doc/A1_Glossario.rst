@@ -26,7 +26,7 @@
         Metodologia di “erogazione di risorse informatiche, come l'archiviazione, l'elaborazione o la trasmissione di dati,” caratterizzato dalla disponibilità su richiesta (on demand) attraverso Internet a partire da un insieme di risorse preesistenti e configurabili. (fonte: https://it.wikipedia.org/wiki/Cloud_computing). Per approfondimenti sul “Cloud PA” si veda anche: http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/cloud-computing  
 		
 	DGSIA/CUS
-		Acronimo per Centro Unico dei Servizi della DGSIA (Direzione Generale Sistemi Informativi Automatizzati) 
+	Acronimo per Centro Unico dei Servizi della DGSIA (Direzione Generale Sistemi Informativi Automatizzati) 
 
     Dominio
         Il termine viene utilizzato per identificare un “insieme di computer che condividono un database di risorse di rete e che vengono amministrati come un'unità con regole e procedure comuni" (fonte: https://it.wikipedia.org/wiki/Dominio#Reti_di_calcolatori). 
