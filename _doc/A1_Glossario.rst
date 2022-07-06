@@ -32,7 +32,7 @@
         Il termine viene utilizzato per identificare un “insieme di computer che condividono un database di risorse di rete e che vengono amministrati come un'unità con regole e procedure comuni" (fonte: https://it.wikipedia.org/wiki/Dominio#Reti_di_calcolatori). 
 
     Identità digitale
-        “...insieme delle risorse digitali associate in maniera univoca ad una persona fisica che la identifica, rappresentandone la volontà, durante le sue attività digitali.”  Per approfondimenti si veda anche: 
+        /"...insieme delle risorse digitali associate in maniera univoca ad una persona fisica che la identifica, rappresentandone la volontà, durante le sue attività digitali./”  Per approfondimenti si veda anche: 
 		https://it.wikipedia.org/wiki/Identit%C3%A0_digitale
 
     Licenza d’uso
