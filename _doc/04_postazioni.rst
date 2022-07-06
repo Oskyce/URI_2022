@@ -9,7 +9,7 @@ Solo per Magistrati, Dirigenti e Funzionari preposti è previsto che, su richies
 
 Si potrà mantenere la postazione fissa per gli incarichi in assegnazione secondaria o aggiuntiva nei soli casi di incarichi ricompresi nel Decreto Presidenziale n. 276/2020 e per i membri togati del Consiglio di Presidenza, ivi compresi i membri magistratuali dell’Ufficio Studi e Documentazione. 
 
-Tutte le postazioni di lavoro fornite al personale sono connesse al :term:`dominio` della Corte dei conti e permettono l’accesso ai servizi sia interni che in Cloud, utilizzando le credenziali di dominio in combinazione con la cosiddetta :term:`Multi Factor Authentication (MFA) - Strong Autentication- Autenticazione forte`, consentendo all’utente di fruire di un’unica esperienza lavorativa, sia durante lo svolgimento delle attività in presenza che durante lo svolgimento delle attività in Smart Working. 
+Tutte le postazioni di lavoro fornite al personale sono connesse al :term:`dominio` della Corte dei conti e permettono l’accesso ai servizi sia interni che in :term:`Cloud<Cloud Computing>` , utilizzando le credenziali di dominio in combinazione con la cosiddetta :term:`Multi Factor Authentication (MFA) - Strong Autentication- Autenticazione forte`, consentendo all’utente di fruire di un’unica esperienza lavorativa, sia durante lo svolgimento delle attività in presenza che durante lo svolgimento delle attività in Smart Working. 
 
 Le postazioni di lavoro fornite, sono già predisposte con le applicazioni necessarie allo svolgimento delle normali attività lavorative, e rispondono ai criteri di sicurezza adottati dalla DGSIA, in conformità della normativa europea e nazionale vigente in materia. 
 
