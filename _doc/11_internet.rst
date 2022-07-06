@@ -13,7 +13,7 @@ Il servizio di navigazione *Internet* fornito dalla Corte dei conti può filtrar
 
 ..
 
-**11.2 *Social network esterni***
+**11.2 \*Social network esterni\* **
 ------------------------------
 I :term:`social network<Social Media e network>` (ad esempio: *LinkedIn, Instagram, Twitter, Facebook*) consentono di condividere con le “comunità” digitali i più disparati contenuti, attraverso l’uso di piattaforme aperte, interattive e partecipative.
 

@@ -63,7 +63,7 @@ In ultimo si vuole evidenziare che l'utilizzo di *Microsoft Teams* per l’organ
 
 Per un approfondimento su tutte le funzionalità messe a disposizione dall’applicativo è comunque possibile consultare `l\’apposita guida online su Microsoft Teams. <https://support.microsoft.com/it-it/teams?ui=it-it&rs=it-it&ad=i>`__  
 
-12.2 Altri servizi in *Cloud*
+12.2 *Altri servizi in Cloud*
 ------------------------
 
 L’utente può avere necessità di accedere ad altri servizi e risorse forniti da terzi secondo il modello del :term:`cloud computing` (es. servizi di posta elettronica ed archiviazione di: *Google*, *Yahoo*,  *Microsoft*, *Amazon*, ecc.). A garanzia della sicurezza degli utenti, dei dati e delle infrastrutture di Corte, è tuttavia indispensabile in tali casi utilizzare credenziali (*user-id* e  *password*) diverse da quelle utilizzate per l’accesso alle risorse interne della Corte dei conti.
