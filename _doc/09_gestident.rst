@@ -19,7 +19,7 @@ L’autenticazione al dominio di Corte dei conti avviene attraverso l’inserime
 
 *	un *SMS* contenete il codice *one-shot* da utilizzare per l’autenticazione. 
 
-*	una notifca di richiesta d'approvazione all’applicativo Microsoft Authenticator precedentemente installato sul proprio dispositivo mobile
+*	una notifca di richiesta d'approvazione all’applicativo *Microsoft Authenticator* precedentemente installato sul proprio dispositivo mobile
 
 ..
 
