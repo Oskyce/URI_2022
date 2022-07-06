@@ -70,6 +70,6 @@ L’utente può avere necessità di accedere ad altri servizi e risorse forniti 
 
 Data la natura innovativa dei servizi in Cloud, nuovi strumenti di lavoro vengono costantemente messi a disposizione dell’utenza, la quale è invitata a provarne autonomamente le funzionalità e la rispondenza alle proprie esigenze lavorative. L’elenco degli strumenti e delle “app” disponibili, unitamente alle informazioni approfondite sul relativo utilizzo, è reperibile sul `portale di Microsoft 365 <https://www.microsoft.com/it-it/microsoft-36>`__ al quale si rimanda anche per la formazione mirata sugli strumenti Microsoft.
 
-Si ricorda inoltre che sono disponibili tutorial informativi dedicati sugli strumenti di Microsoft 365 anche nella sezione `Moduli DGSIA <https://intranet.corteconti.it/Home/Strumenti/RisorseUmane/DGSIAFormazione>`__ e sul canale `Missione Cdc digitale <https://web.microsoftstream.com/channel/99917d37-4a91-4d7f-ac3c-69a51e291390>`__, entrambi accessibili dall’*home page* dell’Intranet istituzionale.
+Si ricorda inoltre che sono disponibili tutorial informativi dedicati sugli strumenti di Microsoft 365 anche nella sezione `Moduli DGSIA <https://intranet.corteconti.it/Home/Strumenti/RisorseUmane/DGSIAFormazione>`__ e sul canale `Missione Cdc digitale <https://web.microsoftstream.com/channel/99917d37-4a91-4d7f-ac3c-69a51e291390>`__, entrambi accessibili dall’*home page* dell’*Intranet* istituzionale.
 
 ..
