@@ -20,7 +20,7 @@ La richiesta di accesso ai dati personali da parte di eventuali aventi diritto, 
 La pratica verrà lavorata nei termini di legge, in via amministrativa dall’Ufficio destinatario della richiesta, di concerto con la Direzione Generale per i Sistemi Informativi Automatizzati (D.G.S.I.A.), ed in particolare col Centro Unico Servizi (CUS). 
 All’evasione dell’istanza, verrà altresì contestualmente richiesta la firma di una liberatoria, *manleva*, in favore della Corte dei conti, per scongiurare la mera eventualità che alcuni dati, archiviati erroneamente nella “cartella personale”, afferiscano invece all’attività lavorativa, che si ricorda essere coperta dal segreto d’ufficio e, comunque da riservatezza, nonché in taluni casi da segreto di Stato (ad es. per i cd. contratti secretati).
 
-Nella sezione Appendice vengono fornite ulteriori e dettagliate informazioni relativamente alle seguenti casistiche:
+Nella sezione `Appendice <https://uri-2022.readthedocs.io/it/latest/_doc/18_appendice/>`__ vengono fornite ulteriori e dettagliate informazioni relativamente alle seguenti casistiche:
 
 *	decesso del dipendente
 *	indisponibilità assoluta o temporanea
