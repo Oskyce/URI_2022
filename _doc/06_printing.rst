@@ -3,7 +3,7 @@
 
 Come previsto dalla `Circolare n. 38 <https://intranet.corteconti.it/Download/id/7f6ec4fd-0c4d-4ac8-b7db-361d5cf6f589/FileType/O>`__ emanata dal Segretario Generale
 in data 3 agosto 2017, è attivo in Corte dei conti un sistema di
-stampa centralizzato cosiddetto Printing management basato su
+stampa centralizzato cosiddetto *Printing management* basato su
 piattaforma Kofax-Equitrac 5.7.
 
 Il sistema consente a tutto il personale della Corte dei conti di
@@ -17,6 +17,6 @@ Le code di stampa per l’utilizzo delle multifunzioni dipartimentali
 sono preinstallate su tutte le PDL in dominio assegnate a tutto il
 personale.
 
-Per il corretto utilizzo del sistema di Printing Management fare
+Per il corretto utilizzo del sistema di *Printing Management* fare
 riferimento al manuale di utilizzo \ `Guida rapida per l'utilizzo
 del sistema di Printing Management <https://corteconti.sharepoint.com/teams/ac_dc/Referenziati%20da%20Mappa%20Servizi/Forms/Prova.aspx?id=%2Fteams%2Fac%5Fdc%2FReferenziati%20da%20Mappa%20Servizi%2FCUS%2FTutorial%20Printing%20Management%2Epdf&parent=%2Fteams%2Fac%5Fdc%2FReferenziati%20da%20Mappa%20Servizi%2FCUS&p=true&ga=1>`__
