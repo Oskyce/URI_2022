@@ -5,15 +5,15 @@ La navigazione su *Internet* è consentita a tutti i dipendenti, senza distinzio
 
 **11.1	Misure di protezione**
 ------------------------------
-Nell'ambito della propria attività di gestione del sistema, :term:`DGSIA/CUS` adotta, in conformità della vigente normativa in materia di sicurezza informatica e protezione dei dati personali, idonee misure di controllo, filtraggio, monitoraggio e tracciatura delle connessioni e dei collegamenti ai siti Internet esterni.
+Nell'ambito della propria attività di gestione del sistema, :term:`DGSIA/CUS` adotta, in conformità della vigente normativa in materia di sicurezza informatica e protezione dei dati personali, idonee misure di controllo, filtraggio, monitoraggio e tracciatura delle connessioni e dei collegamenti ai siti *Internet* esterni.
 
 La consultazione dei file di tracciatura in maniera non aggregata è prerogativa esclusiva dell'Autorità giudiziaria, secondo le norme vigenti.
 
-Il servizio di navigazione internet fornito dalla Corte dei conti può filtrare ed impedire automaticamente l’accesso a siti con contenuti considerati “a rischio” o non coerenti con l’etica dell’Istituto. Su disposizione dei competenti organi istituzionali, DGSIA può inibire la navigazione dalla rete della Corte verso specifici siti.
+Il servizio di navigazione *Internet* fornito dalla Corte dei conti può filtrare ed impedire automaticamente l’accesso a siti con contenuti considerati “a rischio” o non coerenti con l’etica dell’Istituto. Su disposizione dei competenti organi istituzionali, DGSIA può inibire la navigazione dalla rete della Corte verso specifici siti.
 
 ..
 
-**11.2 Social network esterni**
+**11.2 *Social network esterni***
 ------------------------------
 I :term:`social network<Social Media e network>` (ad esempio: *LinkedIn, Instagram, Twitter, Facebook*) consentono di condividere con le “comunità” digitali i più disparati contenuti, attraverso l’uso di piattaforme aperte, interattive e partecipative.
 
