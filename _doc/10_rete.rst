@@ -1,7 +1,7 @@
 ****************************************
 **10. Rete**
 ****************************************
-La Corte dei conti è dotata di una infrastruttura di rete che consente l’accesso ai servizi erogati dall’Istituto e alla rete Internet. 
+La Corte dei conti è dotata di una infrastruttura di rete che consente l’accesso ai servizi erogati dall’Istituto e alla rete *Internet*. 
 
 Per l’accesso a tali servizi e alla rete Internet, gli Utenti digitali dispongono anche di un servizio :term:`Wi-Fi<WIFI - wireless>`. Le predette reti  sono due: una riservata a tutti i dipendenti, accessibile con le modalità descritte nell’apposito documento `Manuale di accesso alla rete Wi-Fi della Corte dei conti per gli utenti interni <https://corteconti.sharepoint.com/teams/ac_dc/Referenziati%20da%20Mappa%20Servizi/Forms/Prova.aspx?id=%2Fteams%2Fac%5Fdc%2FReferenziati%20da%20Mappa%20Servizi%2FCUS%2FCorte%20dei%20Conti%20%2D%20WiFi%20%2D%20Manuale%20Utenti%20Interni%2Epdf&parent=%2Fteams%2Fac%5Fdc%2FReferenziati%20da%20Mappa%20Servizi%2FCUS&p=true&ga=1>`__ , e l’altra destinata agli ospiti.
 

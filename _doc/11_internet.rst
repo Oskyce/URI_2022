@@ -1,7 +1,7 @@
 *********************************
 **11. Internet**
 *********************************
-La navigazione su Internet è consentita a tutti i dipendenti, senza distinzione di ruolo o profilo. L’accesso è abilitato su tutti i dispositivi connessi alla rete, in qualsiasi modalità prevista, trattandosi di uno strumento generalmente imprescindibile per lo svolgimento dell’attività lavorativa.
+La navigazione su *Internet* è consentita a tutti i dipendenti, senza distinzione di ruolo o profilo. L’accesso è abilitato su tutti i dispositivi connessi alla rete, in qualsiasi modalità prevista, trattandosi di uno strumento generalmente imprescindibile per lo svolgimento dell’attività lavorativa.
 
 **11.1	Misure di protezione**
 ------------------------------
